@@ -1,3 +1,8 @@
 Model   Accuracy
-t5-v1_1-base	0.9513415188722146
-t5-v1_1-large	0.9763528876762164
+MixSNIPS_clean_seq2seq_google/t5-v1_1-base	0.9513415188722146
+MixSNIPS_clean_seq2seq_google/t5-v1_1-large	0.9763528876762164
+MixSNIPS_clean_seq2seq_google/t5-v1_1-xl	0.9813551614370168
+
+MixATIS_clean_seq2seq_google/t5-v1_1-large	0.8876811594202898
+MixATIS_clean_seq2seq_google/t5-v1_1-base	0.748792270531401
+MixATIS_clean_seq2seq_google/t5-v1_1-xl	0.9855072463768116

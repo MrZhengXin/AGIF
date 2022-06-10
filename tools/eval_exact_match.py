@@ -16,7 +16,9 @@ with open(args.pred_file, 'r') as f:
 total = len(predictions)
 hit = 0
 for pred, ref in zip(predictions, references):
+    if pred.startswith('what') and not ref.startswith('what'):
+        pred = pred[5:]
     hit += 1 if pred.strip() == ref.strip() else 0
 
 acc = hit / total
-print(args.pred_file.split('/')[-2], acc, sep='\t')
+print(args.pred_file, acc, sep='\t')

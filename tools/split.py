@@ -1,10 +1,13 @@
 from tqdm import trange
 import json
 
-input_dir = 'data/MixSNIPS_clean/'
+input_dir = 'data/MixATIS_clean/'
+# input_dir = 'data/MixSNIPS_clean/'
 # input_dir = 'data/MixSNIPS/'
-ref_dir = 'data/SNIPS/'
-output_dir = 'data/MixSNIPS_clean_seq2seq/'
+ref_dir = 'data/ATIS/'
+# ref_dir = 'data/SNIPS/'
+output_dir = 'data/MixATIS_clean_seq2seq/'
+# output_dir = 'data/MixSNIPS_clean_seq2seq/'
 
 def read_instances(input_file):
     instance = []
