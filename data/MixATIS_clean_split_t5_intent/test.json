@@ -1,0 +1,1713 @@
+{"text": "list california airports", "summary": "atis_airport"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "i need a ticket from nashville to seattle", "summary": "atis_airfare"}
+{"text": "flight numbers from chicago to seattle on continental", "summary": "atis_flight_no"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "show me the cheapest round trip fares from san francisco to houston", "summary": "atis_airfare"}
+{"text": "how many passengers can an l1011 aircraft hold", "summary": "atis_capacity"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "list the distance in miles from san francisco international airport to san francisco downtown", "summary": "atis_distance"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "list airports", "summary": "atis_airport"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "flight number from houston to dallas", "summary": "atis_flight_no"}
+{"text": "how much is limousine service in los angeles", "summary": "atis_ground_fare"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "list ground transportation in baltimore", "summary": "atis_ground_service"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "what class is fare code q", "summary": "atis_abbreviation"}
+{"text": "list airports", "summary": "atis_airport"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "list flights between pittsburgh and milwaukee", "summary": "atis_flight"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "what is the capacity of the 73s", "summary": "atis_capacity"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "determine the type of aircraft used on a flight from cleveland to dallas that leaves before noon", "summary": "atis_aircraft"}
+{"text": "how much does it cost to fly from columbus to st. louis round trip on twa", "summary": "atis_airfare"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "list california airports", "summary": "atis_airport"}
+{"text": "which flights travel from cleveland to indianapolis on april fifth", "summary": "atis_flight"}
+{"text": "what are the fares for ground transportation in denver", "summary": "atis_ground_fare"}
+{"text": "what does fare code f mean", "summary": "atis_abbreviation"}
+{"text": "i need a ticket from nashville tennessee to seattle", "summary": "atis_airfare"}
+{"text": "which airport is closest to ontario california", "summary": "atis_airport"}
+{"text": "list the distance in miles from boston airport to downtown boston", "summary": "atis_distance"}
+{"text": "flight number from dallas to houston", "summary": "atis_flight_no"}
+{"text": "how much is a limousine service in la guardia", "summary": "atis_ground_fare"}
+{"text": "how much is coach flight from pittsburgh to atlanta", "summary": "atis_airfare"}
+{"text": "what is the seating capacity on the aircraft 733", "summary": "atis_capacity"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "flight number from houston to dallas", "summary": "atis_flight_no"}
+{"text": "what ground transportation is available between milwaukee airport and downtown milwaukee", "summary": "atis_ground_service"}
+{"text": "what type of ground transportation is there at the las vegas airport", "summary": "atis_ground_service"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "list airports in la", "summary": "atis_airport"}
+{"text": "please list ground transportation from ewr into new york city", "summary": "atis_ground_service"}
+{"text": "what airline is as as in sam", "summary": "atis_airline"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "what is seating capacity on the aircraft 73s", "summary": "atis_capacity"}
+{"text": "list flights from oakland to salt lake city", "summary": "atis_flight"}
+{"text": "how much is a limousine service in toronto international", "summary": "atis_ground_fare"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "i need information on flights from toronto to san diego", "summary": "atis_flight"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what is meal code sb", "summary": "atis_abbreviation"}
+{"text": "give me the fares from miami to cleveland next sunday", "summary": "atis_airfare"}
+{"text": "which airline is us", "summary": "atis_airline"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "list flights from pittsburgh to newark daily", "summary": "atis_flight"}
+{"text": "what meals are there on flight 382 from milwaukee to washington dc on tuesday morning", "summary": "atis_meal"}
+{"text": "flight numbers from seattle to chicago on continental", "summary": "atis_flight_no"}
+{"text": "i would like to have the airline that flies toronto detroit and st. louis", "summary": "atis_airline"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "what type of aircraft are flying from cleveland to dallas before noon", "summary": "atis_aircraft"}
+{"text": "what ground transportation is there in baltimore", "summary": "atis_ground_service"}
+{"text": "are snacks served on tower air", "summary": "atis_meal"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "how much is a limousine service in la guardia", "summary": "atis_ground_fare"}
+{"text": "what does fare code y mean", "summary": "atis_abbreviation"}
+{"text": "is there a fare from pittsburgh to cleveland under 200 dollars", "summary": "atis_airfare"}
+{"text": "how far is san francisco international from downtown", "summary": "atis_distance"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "what types of ground transportation are available in denver", "summary": "atis_ground_service"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "at the charlotte airport how many different types of aircraft are there for us air", "summary": "atis_aircraft"}
+{"text": "show me ground transportation in phoenix", "summary": "atis_ground_service"}
+{"text": "which airline is us", "summary": "atis_airline"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "which airline is kw", "summary": "atis_airline"}
+{"text": "list the arizona airport", "summary": "atis_airport"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "list seating capacities of delta flights from seattle to salt lake city", "summary": "atis_capacity"}
+{"text": "what meals are there on flight 382 from milwaukee to washington dc on tuesday morning", "summary": "atis_meal"}
+{"text": "tell me about the type of aircraft called an m80", "summary": "atis_aircraft"}
+{"text": "what airline is aa", "summary": "atis_airline"}
+{"text": "how far is toronto international from downtown", "summary": "atis_distance"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "list airports in new york", "summary": "atis_airport"}
+{"text": "list the arizona airport", "summary": "atis_airport"}
+{"text": "please show ground transportation to milwaukee", "summary": "atis_ground_service"}
+{"text": "what airline is us", "summary": "atis_airline"}
+{"text": "i need the flight numbers of flights leaving from cleveland and arriving at dallas", "summary": "atis_flight_no"}
+{"text": "what type of aircraft are flying from cleveland to dallas before noon", "summary": "atis_aircraft"}
+{"text": "what airlines fly between washington dc and columbus ohio", "summary": "atis_airline"}
+{"text": "is there ground transportation available at the salt lake city airport", "summary": "atis_ground_service"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "list first class airfare round trip from indianapolis to memphis", "summary": "atis_airfare"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "what airline is hp", "summary": "atis_airline"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "what is the seating capacity on the aircraft 733", "summary": "atis_capacity"}
+{"text": "list california airports", "summary": "atis_airport"}
+{"text": "show me ground transportation in fort worth", "summary": "atis_ground_service"}
+{"text": "what meals are there on flight 382 from milwaukee to washington dc on tuesday morning", "summary": "atis_meal"}
+{"text": "list seating capacities of delta flights from seattle to salt lake city", "summary": "atis_capacity"}
+{"text": "list the alaska airlines flights arriving in burbank", "summary": "atis_flight"}
+{"text": "what's the fare for a taxi to denver", "summary": "atis_ground_fare"}
+{"text": "what meals are there on flight 382 from milwaukee to washington dc on tuesday morning", "summary": "atis_meal"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "on april first i need a flight going from phoenix to san diego", "summary": "atis_flight"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "what does ap 57 mean", "summary": "atis_abbreviation"}
+{"text": "what is the seating capacity of an m80", "summary": "atis_capacity"}
+{"text": "list the distance in miles from toronto international airport to downtown toronto", "summary": "atis_distance"}
+{"text": "what does ua mean", "summary": "atis_abbreviation"}
+{"text": "are snacks served on tower air", "summary": "atis_meal"}
+{"text": "list airfares for first class round trip from detroit to st. petersburg", "summary": "atis_airfare"}
+{"text": "what airline is hp", "summary": "atis_airline"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "what is the seating capacity for the aircraft m80", "summary": "atis_capacity"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "list limousine rates for the city of boston", "summary": "atis_ground_fare"}
+{"text": "is there ground transportation available at the salt lake city airport", "summary": "atis_ground_service"}
+{"text": "what is the seating capacity for the aircraft m80", "summary": "atis_capacity"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "to what cities from boston does america west fly first class", "summary": "atis_city"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "list california airports", "summary": "atis_airport"}
+{"text": "how far is san francisco international from downtown", "summary": "atis_distance"}
+{"text": "cheapest round trip fare from or indianapolis to orlando on december twenty fifth", "summary": "atis_airfare"}
+{"text": "flight number from houston to dallas", "summary": "atis_flight_no"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "is there ground transportation from the memphis airport into town when if i arrive at 842 in the morning", "summary": "atis_ground_service"}
+{"text": "are snacks served on tower air", "summary": "atis_meal"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "what is the seating capacity of the m80", "summary": "atis_capacity"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "flight number from houston to dallas", "summary": "atis_flight_no"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "what airline is us", "summary": "atis_airline"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "what is a d9s", "summary": "atis_abbreviation"}
+{"text": "what type of ground transportation is there at the las vegas airport", "summary": "atis_ground_service"}
+{"text": "what type of aircraft is used for the american flight leaving at 419 pm", "summary": "atis_aircraft"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "cheapest round trip fare from or indianapolis to orlando on december twenty fifth", "summary": "atis_airfare"}
+{"text": "now show me ground transportation in houston on monday afternoon", "summary": "atis_ground_service"}
+{"text": "get the saturday fare from washington to toronto", "summary": "atis_airfare"}
+{"text": "how far is los angeles international from downtown", "summary": "atis_distance"}
+{"text": "at the charlotte airport how many different types of aircraft are there for us air", "summary": "atis_aircraft"}
+{"text": "st. paul to kansas city friday night", "summary": "atis_flight"}
+{"text": "how much is coach flight from pittsburgh to atlanta", "summary": "atis_airfare"}
+{"text": "how much is limousine service in los angeles", "summary": "atis_ground_fare"}
+{"text": "what is fare code f", "summary": "atis_abbreviation"}
+{"text": "how far is los angeles international from downtown", "summary": "atis_distance"}
+{"text": "what is the seating capacity for the aircraft m80", "summary": "atis_capacity"}
+{"text": "to what cities from boston does america west fly first class", "summary": "atis_city"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what type of plane is a d9s", "summary": "atis_aircraft"}
+{"text": "what does fare code f mean", "summary": "atis_abbreviation"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "get fares from washington to boston", "summary": "atis_airfare"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "does tacoma airport offer transportation from the airport to the downtown area", "summary": "atis_ground_service"}
+{"text": "list the distance in miles from san francisco international airport to san francisco downtown", "summary": "atis_distance"}
+{"text": "what types of ground transportation are available in denver", "summary": "atis_ground_service"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "what is mci", "summary": "atis_abbreviation"}
+{"text": "what is the seating capacity of a 757", "summary": "atis_capacity"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "what is the seating capacity of the type of aircraft m80", "summary": "atis_capacity"}
+{"text": "get flight from toronto to san diego stopping at dtw", "summary": "atis_flight"}
+{"text": "what ground transportation is available between milwaukee airport and downtown milwaukee", "summary": "atis_ground_service"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "list the distance in miles from new york's la guardia airport to downtown new york city", "summary": "atis_distance"}
+{"text": "list the distance in miles from san francisco international airport to san francisco downtown", "summary": "atis_distance"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "how much is limousine service in los angeles", "summary": "atis_ground_fare"}
+{"text": "what does fare code bh mean", "summary": "atis_abbreviation"}
+{"text": "what's the fare for a taxi to denver", "summary": "atis_ground_fare"}
+{"text": "show me round trip fares from toronto to detroit on delta northwest us air and united airlines", "summary": "atis_airfare"}
+{"text": "how much is a limousine service in toronto international", "summary": "atis_ground_fare"}
+{"text": "how much is a limousine service in toronto international", "summary": "atis_ground_fare"}
+{"text": "what ground transportation is available between phoenix airport and downtown phoenix", "summary": "atis_ground_service"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "what is the seating capacity of a 72s", "summary": "atis_capacity"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "i need flight information for flights departing from cleveland going back to milwaukee wednesday after 5 pm", "summary": "atis_flight"}
+{"text": "is there ground transportation from lga into new york city", "summary": "atis_ground_service"}
+{"text": "what is the lowest fare for a flight from washington dc to boston", "summary": "atis_airfare"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "please give me the flights from nashville to houston nonstop with dinner served", "summary": "atis_flight"}
+{"text": "show me airlines that have flights between toronto and detroit between detroit and st. louis and between st. louis and toronto", "summary": "atis_airline"}
+{"text": "i want a flight from toronto to san diego", "summary": "atis_flight"}
+{"text": "list the distance in miles from new york's la guardia airport to downtown new york city", "summary": "atis_distance"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "list airports in la", "summary": "atis_airport"}
+{"text": "what meals are there on flight 382 from milwaukee to washington dc on tuesday morning", "summary": "atis_meal"}
+{"text": "is there a fare from pittsburgh to cleveland under 200 dollars", "summary": "atis_airfare"}
+{"text": "list airports in new york", "summary": "atis_airport"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what type of plane is a d9s", "summary": "atis_aircraft"}
+{"text": "what's the fare for a taxi to denver", "summary": "atis_ground_fare"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "what meals are there on flight 382 from milwaukee to washington dc on tuesday morning", "summary": "atis_meal"}
+{"text": "how much does it cost to fly from columbus to st. louis round trip on twa", "summary": "atis_airfare"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "flight numbers from chicago to seattle on continental", "summary": "atis_flight_no"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "how many passengers can an l1011 aircraft hold", "summary": "atis_capacity"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "i need flight numbers for those flights departing on thursday before 8 am from oakland going to salt lake city", "summary": "atis_flight_no"}
+{"text": "what is the seating capacity of an m80", "summary": "atis_capacity"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "are snacks served on tower air", "summary": "atis_meal"}
+{"text": "to what cities from boston does america west fly first class", "summary": "atis_city"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "list airports in la", "summary": "atis_airport"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "what type of plane is a d9s", "summary": "atis_aircraft"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "i need the flight numbers of flights leaving from cleveland and arriving at dallas", "summary": "atis_flight_no"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "how far is new york's la guardia from downtown", "summary": "atis_distance"}
+{"text": "list airfares for first class round trip from detroit to st. petersburg", "summary": "atis_airfare"}
+{"text": "what type of plane is a d9s", "summary": "atis_aircraft"}
+{"text": "how far is new york's la guardia from downtown", "summary": "atis_distance"}
+{"text": "how much is a limousine service in la guardia", "summary": "atis_ground_fare"}
+{"text": "determine the type of aircraft used on a flight from cleveland to dallas that leaves before noon", "summary": "atis_aircraft"}
+{"text": "after 12 pm on wednesday april sixth i would like to fly from long beach to columbus", "summary": "atis_flight"}
+{"text": "are snacks served on tower air", "summary": "atis_meal"}
+{"text": "list airfares for first class round trip from detroit to st. petersburg", "summary": "atis_airfare"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "tell me about the ground transportation from nashville airport", "summary": "atis_ground_service"}
+{"text": "what is the seating capacity of the aircraft m80", "summary": "atis_capacity"}
+{"text": "list the distance in miles from toronto international airport to downtown toronto", "summary": "atis_distance"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "i would like to leave thursday morning from indianapolis to toronto", "summary": "atis_flight"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "what airlines fly from baltimore to san francisco", "summary": "atis_airline"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "tell me all the airports in the new york city area", "summary": "atis_airport"}
+{"text": "to what cities from boston does america west fly first class", "summary": "atis_city"}
+{"text": "to what cities from boston does america west fly first class", "summary": "atis_city"}
+{"text": "is there one airline that flies from burbank to milwaukee milwaukee to st. louis and from st. louis to burbank", "summary": "atis_airline"}
+{"text": "list the airlines with flights to or from denver", "summary": "atis_airline"}
+{"text": "list coach round trip airfare from detroit to st. petersburg", "summary": "atis_airfare"}
+{"text": "what is the seating capacity on the aircraft 733", "summary": "atis_capacity"}
+{"text": "show me northwest flight 608 from kansas city to st. paul", "summary": "atis_flight"}
+{"text": "what does fare code bh mean", "summary": "atis_abbreviation"}
+{"text": "what is the seating capacity of the 757", "summary": "atis_capacity"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "list airports in la", "summary": "atis_airport"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "what's the ground transportation in denver", "summary": "atis_ground_service"}
+{"text": "list the distance in miles from boston airport to downtown boston", "summary": "atis_distance"}
+{"text": "flight numbers from seattle to chicago on continental", "summary": "atis_flight_no"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "at the charlotte airport how many different types of aircraft are there for us air", "summary": "atis_aircraft"}
+{"text": "list ground transportation in baltimore", "summary": "atis_ground_service"}
+{"text": "what does fare code bh mean", "summary": "atis_abbreviation"}
+{"text": "to what cities from boston does america west fly first class", "summary": "atis_city"}
+{"text": "ground transportation in las vegas", "summary": "atis_ground_service"}
+{"text": "what the abbreviation us stand for", "summary": "atis_abbreviation"}
+{"text": "list limousine rates for the city of boston", "summary": "atis_ground_fare"}
+{"text": "i would like a flight on friday morning from toronto to montreal", "summary": "atis_flight"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "i need a ticket from nashville tennessee to seattle", "summary": "atis_airfare"}
+{"text": "are meals ever served on tower air", "summary": "atis_meal"}
+{"text": "show me the morning flights from memphis to new york city", "summary": "atis_flight"}
+{"text": "how much is limousine service in los angeles", "summary": "atis_ground_fare"}
+{"text": "what is the seating capacity of the 733", "summary": "atis_capacity"}
+{"text": "what airline is aa", "summary": "atis_airline"}
+{"text": "what is the seating capacity for aircraft l10", "summary": "atis_capacity"}
+{"text": "what is the seating capacity of the 757", "summary": "atis_capacity"}
+{"text": "ground transportation in las vegas", "summary": "atis_ground_service"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "what does ap 20 mean", "summary": "atis_abbreviation"}
+{"text": "how many passengers can fly on a 757", "summary": "atis_capacity"}
+{"text": "show me the cheapest round trip fares from san francisco to houston", "summary": "atis_airfare"}
+{"text": "list the distance in miles from new york's la guardia airport to downtown new york city", "summary": "atis_distance"}
+{"text": "on april first i need a ticket from tacoma to san jose departing before 7 am", "summary": "atis_airfare"}
+{"text": "what does ap 57 mean", "summary": "atis_abbreviation"}
+{"text": "to what cities from boston does america west fly first class", "summary": "atis_city"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "how much is a limousine service in la guardia", "summary": "atis_ground_fare"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "list airports in la", "summary": "atis_airport"}
+{"text": "what is seating capacity on the aircraft 73s", "summary": "atis_capacity"}
+{"text": "what is the seating capacity of a dc9", "summary": "atis_capacity"}
+{"text": "list all tower air flights with meals", "summary": "atis_flight"}
+{"text": "what does fare code bh mean", "summary": "atis_abbreviation"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "how much is a limousine service in la guardia", "summary": "atis_ground_fare"}
+{"text": "determine the type of aircraft used on a flight from cleveland to dallas that leaves before noon", "summary": "atis_aircraft"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "list the arizona airport", "summary": "atis_airport"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "list airports in arizona nevada and california please", "summary": "atis_airport"}
+{"text": "list ground transportation in baltimore", "summary": "atis_ground_service"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "how much is a limousine service in toronto international", "summary": "atis_ground_fare"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "how many passengers can an l1011 aircraft hold", "summary": "atis_capacity"}
+{"text": "get first flight from oakland to salt lake city on thursday", "summary": "atis_flight"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "get saturday fares from washington to montreal", "summary": "atis_airfare"}
+{"text": "i would like to have the airline that flies toronto detroit and st. louis", "summary": "atis_airline"}
+{"text": "what's the cheapest flight from columbus to st. louis round trip on twa", "summary": "atis_flight"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what cities does northwest fly out of", "summary": "atis_city"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "what are the fares for all flights between washington and columbus", "summary": "atis_airfare"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "list the arizona airport", "summary": "atis_airport"}
+{"text": "what is the seating capacity of an m80", "summary": "atis_capacity"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "what does ap 57 mean", "summary": "atis_abbreviation"}
+{"text": "i need the flight numbers of flights leaving from cleveland and arriving at dallas", "summary": "atis_flight_no"}
+{"text": "what airlines fly between detroit and westchester county", "summary": "atis_airline"}
+{"text": "what airline is as as in sam", "summary": "atis_airline"}
+{"text": "list airports", "summary": "atis_airport"}
+{"text": "what meals are there on flight 382 from milwaukee to washington dc on tuesday morning", "summary": "atis_meal"}
+{"text": "list airports in la", "summary": "atis_airport"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "list airports in arizona nevada and california please", "summary": "atis_airport"}
+{"text": "what ground transportation is available from dallas fort worth airport to downtown dallas", "summary": "atis_ground_service"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "what does fare code bh mean", "summary": "atis_abbreviation"}
+{"text": "i'll need to rent a car in washington dc", "summary": "atis_ground_service"}
+{"text": "what airline flies from boston to san diego", "summary": "atis_airline"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "what is the seating capacity of a 757", "summary": "atis_capacity"}
+{"text": "list the distance in miles from new york's la guardia airport to downtown new york city", "summary": "atis_distance"}
+{"text": "i need a daily flight from st. louis to milwaukee", "summary": "atis_flight"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "what airline is as", "summary": "atis_airline"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "how long does a flight from baltimore to san francisco take", "summary": "atis_distance"}
+{"text": "what are the fares for ground transportation in denver", "summary": "atis_ground_fare"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "what does fare code f mean", "summary": "atis_abbreviation"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "how about a flight from milwaukee to st. louis that leaves monday night", "summary": "atis_flight"}
+{"text": "how much is a limousine service in toronto international", "summary": "atis_ground_fare"}
+{"text": "what type of plane is a d9s", "summary": "atis_aircraft"}
+{"text": "how much is a limousine service in la guardia", "summary": "atis_ground_fare"}
+{"text": "give me the fares for round trip flights from cleveland to miami next wednesday", "summary": "atis_airfare"}
+{"text": "is there ground transportation available at the indianapolis airport", "summary": "atis_ground_service"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "how much is a limousine service in la guardia", "summary": "atis_ground_fare"}
+{"text": "list the distance in miles from san francisco international airport to san francisco downtown", "summary": "atis_distance"}
+{"text": "what type of aircraft are flying from cleveland to dallas before noon", "summary": "atis_aircraft"}
+{"text": "what is the seating capacity for the aircraft m80", "summary": "atis_capacity"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "how far is san francisco international from downtown", "summary": "atis_distance"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "what does ap 20 mean", "summary": "atis_abbreviation"}
+{"text": "what airline is as", "summary": "atis_airline"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "show me airlines that have flights between toronto and detroit between detroit and st. louis and between st. louis and toronto", "summary": "atis_airline"}
+{"text": "what ground transportation is available at denver", "summary": "atis_ground_service"}
+{"text": "what airlines fly into denver", "summary": "atis_airline"}
+{"text": "what is the seating capacity for the aircraft m80", "summary": "atis_capacity"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "are snacks served on tower air", "summary": "atis_meal"}
+{"text": "what ground transportation is available between dca and downtown washington", "summary": "atis_ground_service"}
+{"text": "is there ground transportation available at the indianapolis airport", "summary": "atis_ground_service"}
+{"text": "i need flight numbers for those flights departing on thursday before 8 am from oakland going to salt lake city", "summary": "atis_flight_no"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "i need flight numbers for those flights departing on thursday before 8 am from oakland going to salt lake city", "summary": "atis_flight_no"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "how long does a flight from baltimore to san francisco take", "summary": "atis_distance"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "what is the seating capacity on the aircraft m80", "summary": "atis_capacity"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "list airfares for first class round trip from detroit to st. petersburg", "summary": "atis_airfare"}
+{"text": "list california airports", "summary": "atis_airport"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "what airlines are departing from baltimore", "summary": "atis_airline"}
+{"text": "how far is new york's la guardia from downtown", "summary": "atis_distance"}
+{"text": "what airline is hp", "summary": "atis_airline"}
+{"text": "how much is a limousine service in toronto international", "summary": "atis_ground_fare"}
+{"text": "list the distance in miles from toronto international airport to downtown toronto", "summary": "atis_distance"}
+{"text": "find american flight from newark to nashville around 630 pm", "summary": "atis_flight"}
+{"text": "what ground transportation is there in baltimore", "summary": "atis_ground_service"}
+{"text": "list flights from miami to indianapolis sunday", "summary": "atis_flight"}
+{"text": "flight number from dallas to houston", "summary": "atis_flight_no"}
+{"text": "what airline is hp", "summary": "atis_airline"}
+{"text": "what is the capacity of the 73s", "summary": "atis_capacity"}
+{"text": "what is the lowest fare for a flight from washington dc to boston", "summary": "atis_airfare"}
+{"text": "flight numbers from chicago to seattle", "summary": "atis_flight_no"}
+{"text": "does tacoma airport offer transportation from the airport to the downtown area", "summary": "atis_ground_service"}
+{"text": "flight numbers from chicago to seattle on continental", "summary": "atis_flight_no"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "which airline is us", "summary": "atis_airline"}
+{"text": "what is the seating capacity of the 757", "summary": "atis_capacity"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "what is the seating capacity on the aircraft 733", "summary": "atis_capacity"}
+{"text": "how far is los angeles international from downtown", "summary": "atis_distance"}
+{"text": "flight numbers from chicago to seattle", "summary": "atis_flight_no"}
+{"text": "what is the seating capacity of a dc9", "summary": "atis_capacity"}
+{"text": "list california airports", "summary": "atis_airport"}
+{"text": "what is mci", "summary": "atis_abbreviation"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "what does ua mean", "summary": "atis_abbreviation"}
+{"text": "what type of aircraft are flying from cleveland to dallas before noon", "summary": "atis_aircraft"}
+{"text": "list the cheapest fare from charlotte to las vegas", "summary": "atis_airfare"}
+{"text": "to what cities from boston does america west fly first class", "summary": "atis_city"}
+{"text": "flight number from houston to dallas", "summary": "atis_flight_no"}
+{"text": "list california nevada arizona airports", "summary": "atis_airport"}
+{"text": "what is the seating capacity on the aircraft 733", "summary": "atis_capacity"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "ground transportation for las vegas", "summary": "atis_ground_service"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "what does fare code bh mean", "summary": "atis_abbreviation"}
+{"text": "list airlines that fly from seattle to salt lake city", "summary": "atis_airline"}
+{"text": "show me the nonstop flights from toronto to st. petersburg", "summary": "atis_flight"}
+{"text": "what does fare code h mean", "summary": "atis_abbreviation"}
+{"text": "what is the seating capacity for aircraft l10", "summary": "atis_capacity"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "which airlines fly between toronto and san diego", "summary": "atis_airline"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "which airline is us", "summary": "atis_airline"}
+{"text": "list airports", "summary": "atis_airport"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "how much is a limousine service in la guardia", "summary": "atis_ground_fare"}
+{"text": "what does fare code h mean", "summary": "atis_abbreviation"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "dallas to houston after 1201 am", "summary": "atis_flight"}
+{"text": "flight number from houston to dallas", "summary": "atis_flight_no"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "flight number from dallas to houston", "summary": "atis_flight_no"}
+{"text": "list limousine rates for the city of boston", "summary": "atis_ground_fare"}
+{"text": "how many passengers can an l1011 aircraft hold", "summary": "atis_capacity"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "list the distance in miles from toronto international airport to downtown toronto", "summary": "atis_distance"}
+{"text": "i need the flight numbers of flights leaving from cleveland and arriving at dallas", "summary": "atis_flight_no"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "show me ground transportation in fort worth", "summary": "atis_ground_service"}
+{"text": "show me the cheapest round trip fare from san francisco to houston on february twenty eighth 1994", "summary": "atis_airfare"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "what ground transportation is available at denver", "summary": "atis_ground_service"}
+{"text": "i need a friday flight from newark to tampa", "summary": "atis_flight"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "list the distance in miles from toronto international airport to downtown toronto", "summary": "atis_distance"}
+{"text": "list airports in la", "summary": "atis_airport"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "at the charlotte airport how many different types of aircraft are there for us air", "summary": "atis_aircraft"}
+{"text": "list the distance in miles from san francisco international airport to san francisco downtown", "summary": "atis_distance"}
+{"text": "is there ground transportation from lga into new york city", "summary": "atis_ground_service"}
+{"text": "what is the seating capacity of a 72s", "summary": "atis_capacity"}
+{"text": "what does q mean", "summary": "atis_abbreviation"}
+{"text": "what airlines fly between detroit and westchester county", "summary": "atis_airline"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "tell me about the type of aircraft called an m80", "summary": "atis_aircraft"}
+{"text": "how far is san francisco international from downtown", "summary": "atis_distance"}
+{"text": "what cities does northwest fly out of", "summary": "atis_city"}
+{"text": "list california nevada arizona airports", "summary": "atis_airport"}
+{"text": "what type of ground transportation is there at the las vegas airport", "summary": "atis_ground_service"}
+{"text": "what are the fares for ground transportation in denver", "summary": "atis_ground_fare"}
+{"text": "what is the seating capacity for aircraft l10", "summary": "atis_capacity"}
+{"text": "flight numbers from seattle to chicago on continental", "summary": "atis_flight_no"}
+{"text": "what is the seating capacity of the aircraft 72s", "summary": "atis_capacity"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "what does hp stand for", "summary": "atis_abbreviation"}
+{"text": "what airlines fly between washington dc and columbus ohio", "summary": "atis_airline"}
+{"text": "i need the flight numbers of flights leaving from cleveland and arriving at dallas", "summary": "atis_flight_no"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "flight number from dallas to houston", "summary": "atis_flight_no"}
+{"text": "what ground transportation is available between pittsburgh airport and downtown pittsburgh", "summary": "atis_ground_service"}
+{"text": "what cities does northwest fly out of", "summary": "atis_city"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "flight numbers from chicago to seattle on continental", "summary": "atis_flight_no"}
+{"text": "list flights from washington dc to boston", "summary": "atis_flight"}
+{"text": "what does hp stand for", "summary": "atis_abbreviation"}
+{"text": "determine the type of aircraft used on a flight from cleveland to dallas that leaves before noon", "summary": "atis_aircraft"}
+{"text": "which airline is us", "summary": "atis_airline"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "list the distance in miles from san francisco international airport to san francisco downtown", "summary": "atis_distance"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "list airports in la", "summary": "atis_airport"}
+{"text": "what cities does northwest fly out of", "summary": "atis_city"}
+{"text": "is there ground transportation available at the denver airport", "summary": "atis_ground_service"}
+{"text": "i'll need to rent a car in washington dc", "summary": "atis_ground_service"}
+{"text": "what is a d9s", "summary": "atis_abbreviation"}
+{"text": "what meals are there on flight 382 from milwaukee to washington dc on tuesday morning", "summary": "atis_meal"}
+{"text": "which airline is us", "summary": "atis_airline"}
+{"text": "what's the fare for a taxi to denver", "summary": "atis_ground_fare"}
+{"text": "list the airports in la", "summary": "atis_airport"}
+{"text": "how much is limousine service in los angeles", "summary": "atis_ground_fare"}
+{"text": "what does fare code bh mean", "summary": "atis_abbreviation"}
+{"text": "i would like a flight leaving san francisco for san diego", "summary": "atis_flight"}
+{"text": "find flight from san diego to phoenix on monday am", "summary": "atis_flight"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "list flights from houston to denver", "summary": "atis_flight"}
+{"text": "tell me about the ground transportation from nashville airport", "summary": "atis_ground_service"}
+{"text": "how far is los angeles international from downtown", "summary": "atis_distance"}
+{"text": "are there any flights from boston to orlando connecting in new york", "summary": "atis_flight"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what does ua mean", "summary": "atis_abbreviation"}
+{"text": "flight numbers from chicago to seattle on continental", "summary": "atis_flight_no"}
+{"text": "what's the ground transportation in denver", "summary": "atis_ground_service"}
+{"text": "milwaukee to phoenix on saturday", "summary": "atis_flight"}
+{"text": "i need to rent a car at tampa", "summary": "atis_ground_service"}
+{"text": "list airlines that fly from seattle to salt lake city", "summary": "atis_airline"}
+{"text": "how much is a limousine service in toronto international", "summary": "atis_ground_fare"}
+{"text": "what type of aircraft are flying from cleveland to dallas before noon", "summary": "atis_aircraft"}
+{"text": "list the airports in la", "summary": "atis_airport"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "are meals ever served on tower air", "summary": "atis_meal"}
+{"text": "please show ground transportation to milwaukee", "summary": "atis_ground_service"}
+{"text": "can you list all of the delta flights from salt lake city to new york next saturday arriving before 6 pm", "summary": "atis_flight"}
+{"text": "are meals ever served on tower air", "summary": "atis_meal"}
+{"text": "cheapest fare round trip from indianapolis to orlando on december twenty seventh", "summary": "atis_airfare"}
+{"text": "tell me all the airports near westchester county", "summary": "atis_airport"}
+{"text": "give me the flights from chicago to seattle on continental that have meals early saturday morning", "summary": "atis_flight"}
+{"text": "flight numbers from chicago to seattle", "summary": "atis_flight_no"}
+{"text": "which airlines fly between toronto and san diego", "summary": "atis_airline"}
+{"text": "list airports in arizona nevada and california please", "summary": "atis_airport"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "flight numbers from chicago to seattle on continental", "summary": "atis_flight_no"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "what type of aircraft is used for the american flight leaving at 419 pm", "summary": "atis_aircraft"}
+{"text": "what cities does northwest fly out of", "summary": "atis_city"}
+{"text": "what is 73s", "summary": "atis_abbreviation"}
+{"text": "i need a ticket from nashville to seattle", "summary": "atis_airfare"}
+{"text": "what does ap 57 mean", "summary": "atis_abbreviation"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "what the abbreviation us stand for", "summary": "atis_abbreviation"}
+{"text": "what type of aircraft is used for the american flight leaving at 419 pm", "summary": "atis_aircraft"}
+{"text": "list distance from airports to downtown in new york", "summary": "atis_distance"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "flight numbers on american airlines from phoenix to milwaukee", "summary": "atis_flight_no"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "find flights arriving new york city next saturday", "summary": "atis_flight"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "show me the cheapest round trip coach fare from las vegas to detroit", "summary": "atis_airfare"}
+{"text": "flight number from dallas to houston", "summary": "atis_flight_no"}
+{"text": "how much is a limousine service in toronto international", "summary": "atis_ground_fare"}
+{"text": "list the airports in la", "summary": "atis_airport"}
+{"text": "flight number from dallas to houston", "summary": "atis_flight_no"}
+{"text": "is there ground transportation from lga into new york city", "summary": "atis_ground_service"}
+{"text": "what's the fare for a taxi to denver", "summary": "atis_ground_fare"}
+{"text": "are meals ever served on tower air", "summary": "atis_meal"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "what is the earliest arriving flight from houston to orlando", "summary": "atis_flight"}
+{"text": "how many passengers can fly on a 757", "summary": "atis_capacity"}
+{"text": "list limousine rates for the city of boston", "summary": "atis_ground_fare"}
+{"text": "get fares from washington to montreal", "summary": "atis_airfare"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "i need to rent a car in milwaukee", "summary": "atis_ground_service"}
+{"text": "list california nevada arizona airports", "summary": "atis_airport"}
+{"text": "flight number from dallas to houston", "summary": "atis_flight_no"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "tell me all the airports in the new york city area", "summary": "atis_airport"}
+{"text": "list distance from airports to downtown in new york", "summary": "atis_distance"}
+{"text": "list the distance in miles from san francisco international airport to san francisco downtown", "summary": "atis_distance"}
+{"text": "i want to go from boston to washington on a saturday", "summary": "atis_flight"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what type of aircraft is used for the american flight leaving at 419 pm", "summary": "atis_aircraft"}
+{"text": "which airlines fly from baltimore to san francisco", "summary": "atis_airline"}
+{"text": "what airlines fly into denver", "summary": "atis_airline"}
+{"text": "how far is new york's la guardia from downtown", "summary": "atis_distance"}
+{"text": "what airline is dl", "summary": "atis_airline"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "what type of aircraft are flying from cleveland to dallas before noon", "summary": "atis_aircraft"}
+{"text": "what is the seating capacity of the aircraft 72s", "summary": "atis_capacity"}
+{"text": "what are the flights from milwaukee to seattle", "summary": "atis_flight"}
+{"text": "tell me about the type of aircraft called an m80", "summary": "atis_aircraft"}
+{"text": "what does not sa mean", "summary": "atis_abbreviation"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "how far is new york's la guardia from downtown", "summary": "atis_distance"}
+{"text": "list airports in la", "summary": "atis_airport"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "what meals are there on flight 382 from milwaukee to washington dc on tuesday morning", "summary": "atis_meal"}
+{"text": "list the distance in miles from toronto international airport to downtown toronto", "summary": "atis_distance"}
+{"text": "list all tower air flights with meals", "summary": "atis_flight"}
+{"text": "list airports", "summary": "atis_airport"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "flight number from houston to dallas", "summary": "atis_flight_no"}
+{"text": "are meals ever served on tower air", "summary": "atis_meal"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "what is the least expensive fare from boston to salt lake city", "summary": "atis_airfare"}
+{"text": "is there ground transportation available at the salt lake city airport", "summary": "atis_ground_service"}
+{"text": "what is the seating capacity of the type of aircraft m80", "summary": "atis_capacity"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "list the distance in miles from boston airport to downtown boston", "summary": "atis_distance"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "ground transportation in las vegas", "summary": "atis_ground_service"}
+{"text": "are meals ever served on tower air", "summary": "atis_meal"}
+{"text": "how much is a limousine service in la guardia", "summary": "atis_ground_fare"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "what is the seating capacity of an m80", "summary": "atis_capacity"}
+{"text": "find flight from san diego to phoenix on monday am", "summary": "atis_flight"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "list distance from airports to downtown in new york", "summary": "atis_distance"}
+{"text": "milwaukee to phoenix on saturday", "summary": "atis_flight"}
+{"text": "i would like a flight from cincinnati to burbank on american", "summary": "atis_flight"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "what type of aircraft are flying from cleveland to dallas before noon", "summary": "atis_aircraft"}
+{"text": "list california airports", "summary": "atis_airport"}
+{"text": "what airline is as", "summary": "atis_airline"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "is ground transportation available in st. louis", "summary": "atis_ground_service"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "what are the flights between memphis and cincinnati on wednesday", "summary": "atis_flight"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "is there ground transportation available at the phoenix airport", "summary": "atis_ground_service"}
+{"text": "what is 73s", "summary": "atis_abbreviation"}
+{"text": "at the charlotte airport how many different types of aircraft are there for us air", "summary": "atis_aircraft"}
+{"text": "how much is limousine service in los angeles", "summary": "atis_ground_fare"}
+{"text": "is there ground transportation available at the denver airport", "summary": "atis_ground_service"}
+{"text": "i need the flight numbers of flights leaving from cleveland and arriving at dallas", "summary": "atis_flight_no"}
+{"text": "is there ground transportation available at the phoenix airport", "summary": "atis_ground_service"}
+{"text": "what is the seating capacity of the type of aircraft m80", "summary": "atis_capacity"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "i need the flight numbers of flights leaving from cleveland and arriving at dallas", "summary": "atis_flight_no"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "determine the type of aircraft used on a flight from cleveland to dallas that leaves before noon", "summary": "atis_aircraft"}
+{"text": "list the distance in miles from toronto international airport to downtown toronto", "summary": "atis_distance"}
+{"text": "list seating capacities of delta flights from seattle to salt lake city", "summary": "atis_capacity"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "what are the fares for ground transportation in denver", "summary": "atis_ground_fare"}
+{"text": "list california nevada arizona airports", "summary": "atis_airport"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "list airports", "summary": "atis_airport"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "how much is a limousine service in la guardia", "summary": "atis_ground_fare"}
+{"text": "how many passengers can an l1011 aircraft hold", "summary": "atis_capacity"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "what cities does northwest fly out of", "summary": "atis_city"}
+{"text": "flight numbers from chicago to seattle", "summary": "atis_flight_no"}
+{"text": "are meals ever served on tower air", "summary": "atis_meal"}
+{"text": "a flight from baltimore to san francisco arriving between 5 and 8 pm", "summary": "atis_flight"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "how much is a limousine service in la guardia", "summary": "atis_ground_fare"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "list type of aircraft for all flights from charlotte", "summary": "atis_aircraft"}
+{"text": "what are the fares for ground transportation in denver", "summary": "atis_ground_fare"}
+{"text": "are snacks served on tower air", "summary": "atis_meal"}
+{"text": "to what cities from boston does america west fly first class", "summary": "atis_city"}
+{"text": "flight numbers on american airlines from phoenix to milwaukee", "summary": "atis_flight_no"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "what is the fare for a first class round trip ticket from detroit to st. petersburg", "summary": "atis_airfare"}
+{"text": "list flights between pittsburgh and milwaukee", "summary": "atis_flight"}
+{"text": "what is the seating capacity on the aircraft m80", "summary": "atis_capacity"}
+{"text": "i need a flight from toronto to newark one way leaving wednesday evening or thursday morning", "summary": "atis_flight"}
+{"text": "how long does a flight from baltimore to san francisco take", "summary": "atis_distance"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what is the seating capacity of an m80", "summary": "atis_capacity"}
+{"text": "list the distance in miles from boston airport to downtown boston", "summary": "atis_distance"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "list the airports in la", "summary": "atis_airport"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "tell me about the type of aircraft called an m80", "summary": "atis_aircraft"}
+{"text": "list the distance in miles from boston airport to downtown boston", "summary": "atis_distance"}
+{"text": "what does fare code bh mean", "summary": "atis_abbreviation"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "list ground transportation in baltimore", "summary": "atis_ground_service"}
+{"text": "which flights travel from tacoma to san jose", "summary": "atis_flight"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "get fares from washington to montreal", "summary": "atis_airfare"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "what does fare code h mean", "summary": "atis_abbreviation"}
+{"text": "what are the lowest fares from washington dc to salt lake city", "summary": "atis_airfare"}
+{"text": "list california airports", "summary": "atis_airport"}
+{"text": "what airline is dl", "summary": "atis_airline"}
+{"text": "now show me ground transportation in houston on monday afternoon", "summary": "atis_ground_service"}
+{"text": "which airline is us", "summary": "atis_airline"}
+{"text": "list all of the daily flights arriving in denver from 8 to 9 pm", "summary": "atis_flight"}
+{"text": "show me the airports serviced by tower air", "summary": "atis_airport"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "at the charlotte airport how many different types of aircraft are there for us air", "summary": "atis_aircraft"}
+{"text": "what's the fare for a taxi to denver", "summary": "atis_ground_fare"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "get saturday fares from washington to toronto", "summary": "atis_airfare"}
+{"text": "what airline is hp", "summary": "atis_airline"}
+{"text": "what type of plane is a d9s", "summary": "atis_aircraft"}
+{"text": "show me airlines that have flights between toronto and detroit between detroit and st. louis and between st. louis and toronto", "summary": "atis_airline"}
+{"text": "i would like to fly from atlanta to san diego", "summary": "atis_flight"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "show me the cost of a first class ticket from detroit to las vegas and back", "summary": "atis_airfare"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "list the distance in miles from new york's la guardia airport to downtown new york city", "summary": "atis_distance"}
+{"text": "show me the cost of a first class ticket from detroit to las vegas and back", "summary": "atis_airfare"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "what cities does northwest fly out of", "summary": "atis_city"}
+{"text": "list the distance in miles from toronto international airport to downtown toronto", "summary": "atis_distance"}
+{"text": "flight number from houston to dallas", "summary": "atis_flight_no"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "list the arizona airport", "summary": "atis_airport"}
+{"text": "is there ground transportation from lga into new york city", "summary": "atis_ground_service"}
+{"text": "what type of aircraft is used for the american flight leaving at 419 pm", "summary": "atis_aircraft"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "how far is toronto international from downtown", "summary": "atis_distance"}
+{"text": "cheapest fare from indianapolis to orlando on the twenty seventh of december", "summary": "atis_airfare"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "i need a flight from memphis to las vegas", "summary": "atis_flight"}
+{"text": "find flight from houston to memphis on friday", "summary": "atis_flight"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "what does fare code h mean", "summary": "atis_abbreviation"}
+{"text": "i need flight numbers for those flights departing on thursday before 8 am from oakland going to salt lake city", "summary": "atis_flight_no"}
+{"text": "what does the restriction ap58 mean", "summary": "atis_abbreviation"}
+{"text": "what type of ground transportation is there at the las vegas airport", "summary": "atis_ground_service"}
+{"text": "list the cheapest fare from charlotte to las vegas", "summary": "atis_airfare"}
+{"text": "what is the capacity of the 73s", "summary": "atis_capacity"}
+{"text": "chicago to seattle saturday morning", "summary": "atis_flight"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "list flights from atlanta to toronto friday afternoon", "summary": "atis_flight"}
+{"text": "list distance from airports to downtown in new york", "summary": "atis_distance"}
+{"text": "now show me ground transportation in houston on monday afternoon", "summary": "atis_ground_service"}
+{"text": "are meals ever served on tower air", "summary": "atis_meal"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "i need to rent a car at tampa", "summary": "atis_ground_service"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "what is the least expensive fare from boston to salt lake city", "summary": "atis_airfare"}
+{"text": "what are the fares for ground transportation in denver", "summary": "atis_ground_fare"}
+{"text": "how much does it cost to fly on twa from columbus to milwaukee", "summary": "atis_airfare"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "what airline is as as in sam", "summary": "atis_airline"}
+{"text": "find american flight from newark to nashville around 630 pm", "summary": "atis_flight"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "list all tower air flights with meals", "summary": "atis_flight"}
+{"text": "list distance from airports to downtown in new york", "summary": "atis_distance"}
+{"text": "how much is a limousine service in la guardia", "summary": "atis_ground_fare"}
+{"text": "show me ground transportation in fort worth", "summary": "atis_ground_service"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "get saturday fares from washington to boston", "summary": "atis_airfare"}
+{"text": "list ground transportation in baltimore", "summary": "atis_ground_service"}
+{"text": "show me the cheapest round trip between st. petersburg and detroit that arrives before 7 pm", "summary": "atis_flight"}
+{"text": "to what cities from boston does america west fly first class", "summary": "atis_city"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "how far is toronto international from downtown", "summary": "atis_distance"}
+{"text": "what are restrictions ap 57", "summary": "atis_abbreviation"}
+{"text": "list all flights on all types of aircraft arriving in denver between 8 and 9 pm", "summary": "atis_flight"}
+{"text": "what does the restriction ap58 mean", "summary": "atis_abbreviation"}
+{"text": "how much is limousine service in los angeles", "summary": "atis_ground_fare"}
+{"text": "are meals ever served on tower air", "summary": "atis_meal"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "list the distance in miles from new york's la guardia airport to downtown new york city", "summary": "atis_distance"}
+{"text": "what does hp stand for", "summary": "atis_abbreviation"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "i would like to know what airports are in los angeles", "summary": "atis_airport"}
+{"text": "flight numbers on american airlines from phoenix to milwaukee", "summary": "atis_flight_no"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "what is the seating capacity for the aircraft m80", "summary": "atis_capacity"}
+{"text": "how far is new york's la guardia from downtown", "summary": "atis_distance"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "flight numbers from chicago to seattle", "summary": "atis_flight_no"}
+{"text": "what does hp stand for", "summary": "atis_abbreviation"}
+{"text": "are snacks served on tower air", "summary": "atis_meal"}
+{"text": "what is the seating capacity of the aircraft m80", "summary": "atis_capacity"}
+{"text": "how far is toronto international from downtown", "summary": "atis_distance"}
+{"text": "what type of plane is a d9s", "summary": "atis_aircraft"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "flight number from houston to dallas", "summary": "atis_flight_no"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "i need a ticket from nashville to seattle", "summary": "atis_airfare"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "please list flights from san francisco to charlotte", "summary": "atis_flight"}
+{"text": "flight numbers on american airlines from phoenix to milwaukee", "summary": "atis_flight_no"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "list type of aircraft for all flights from charlotte", "summary": "atis_aircraft"}
+{"text": "what type of plane is a d9s", "summary": "atis_aircraft"}
+{"text": "what ground transportation is available between dca and downtown washington", "summary": "atis_ground_service"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "what airline is as", "summary": "atis_airline"}
+{"text": "what is the seating capacity of a 72s", "summary": "atis_capacity"}
+{"text": "what is the first class round trip airfare from india indianapolis to memphis", "summary": "atis_airfare"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "is there a fare from pittsburgh to cleveland under 200 dollars", "summary": "atis_airfare"}
+{"text": "list distance from airports to downtown in new york", "summary": "atis_distance"}
+{"text": "i need a flight on united airlines from la guardia to san jose", "summary": "atis_flight"}
+{"text": "what airline is us", "summary": "atis_airline"}
+{"text": "list airports in la", "summary": "atis_airport"}
+{"text": "what ground transportation is available from dallas fort worth airport to downtown dallas", "summary": "atis_ground_service"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "show me the flights in from minneapolis to indianapolis on tuesday afternoon", "summary": "atis_flight"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "flight number from houston to dallas", "summary": "atis_flight_no"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "is there ground transportation available at the indianapolis airport", "summary": "atis_ground_service"}
+{"text": "what airlines serve denver", "summary": "atis_airline"}
+{"text": "list airports in la", "summary": "atis_airport"}
+{"text": "what cities does northwest fly out of", "summary": "atis_city"}
+{"text": "get saturday fares from washington to boston", "summary": "atis_airfare"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what is mci", "summary": "atis_abbreviation"}
+{"text": "what is the seating capacity on the aircraft 733", "summary": "atis_capacity"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "how much is limousine service in los angeles", "summary": "atis_ground_fare"}
+{"text": "what is the seating capacity of an m80", "summary": "atis_capacity"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what is cvg", "summary": "atis_abbreviation"}
+{"text": "what airlines fly from baltimore to san francisco", "summary": "atis_airline"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "list limousine rates for the city of boston", "summary": "atis_ground_fare"}
+{"text": "list distance from airports to downtown in new york", "summary": "atis_distance"}
+{"text": "what does fare code f mean", "summary": "atis_abbreviation"}
+{"text": "what is the fare for a first class round trip ticket from detroit to st. petersburg", "summary": "atis_airfare"}
+{"text": "what are the fares for all flights between washington and columbus", "summary": "atis_airfare"}
+{"text": "i need the flight numbers of flights leaving from cleveland and arriving at dallas", "summary": "atis_flight_no"}
+{"text": "what ground transportation is available between milwaukee airport and downtown milwaukee", "summary": "atis_ground_service"}
+{"text": "what are the fares for all flights between washington and columbus", "summary": "atis_airfare"}
+{"text": "flight number from houston to dallas", "summary": "atis_flight_no"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "what's the cheapest flight tomorrow from milwaukee to denver", "summary": "atis_flight"}
+{"text": "what is a d9s", "summary": "atis_abbreviation"}
+{"text": "what is the seating capacity of a 72s", "summary": "atis_capacity"}
+{"text": "how many people will a 757 hold", "summary": "atis_capacity"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "i need the flight numbers of flights leaving from cleveland and arriving at dallas", "summary": "atis_flight_no"}
+{"text": "list type of aircraft for all flights from charlotte", "summary": "atis_aircraft"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "get fares from washington to boston", "summary": "atis_airfare"}
+{"text": "list airports", "summary": "atis_airport"}
+{"text": "what meals are there on flight 382 from milwaukee to washington dc on tuesday morning", "summary": "atis_meal"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "what airline is aa", "summary": "atis_airline"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "what is the most expensive one way fare between detroit and westchester county", "summary": "atis_airfare"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "is there a fare from pittsburgh to cleveland under 200 dollars", "summary": "atis_airfare"}
+{"text": "what airline flies from boston to san diego", "summary": "atis_airline"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "what does fare code bh mean", "summary": "atis_abbreviation"}
+{"text": "flight number from houston to dallas", "summary": "atis_flight_no"}
+{"text": "what airlines off from love field between 6 and 10 am on june sixth", "summary": "atis_airline"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "i need a ticket from nashville to seattle", "summary": "atis_airfare"}
+{"text": "tell me all the airports in the new york city area", "summary": "atis_airport"}
+{"text": "what flights leave from cleveland and go to dallas", "summary": "atis_flight"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "what does fare code f mean", "summary": "atis_abbreviation"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "what meals are there on flight 382 from milwaukee to washington dc on tuesday morning", "summary": "atis_meal"}
+{"text": "show flights from kansas city to orlando", "summary": "atis_flight"}
+{"text": "what is the seating capacity of the 757", "summary": "atis_capacity"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "what type of aircraft is used for the american flight leaving at 419 pm", "summary": "atis_aircraft"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "now show me ground transportation in houston on monday afternoon", "summary": "atis_ground_service"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "flight numbers from seattle to chicago on continental", "summary": "atis_flight_no"}
+{"text": "list airfares for first class round trip from detroit to st. petersburg", "summary": "atis_airfare"}
+{"text": "flight number from dallas to houston", "summary": "atis_flight_no"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "what airlines fly between washington dc and columbus ohio", "summary": "atis_airline"}
+{"text": "list flights from washington dc to philadelphia saturday pm", "summary": "atis_flight"}
+{"text": "what's the fare for a taxi to denver", "summary": "atis_ground_fare"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "are meals ever served on tower air", "summary": "atis_meal"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "list the distance in miles from boston airport to downtown boston", "summary": "atis_distance"}
+{"text": "list early morning flights from cincinnati to tampa", "summary": "atis_flight"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "are snacks served on tower air", "summary": "atis_meal"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "how far is los angeles international from downtown", "summary": "atis_distance"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what airline is dl", "summary": "atis_airline"}
+{"text": "does tacoma airport offer transportation from the airport to the downtown area", "summary": "atis_ground_service"}
+{"text": "cheapest round trip fare from or indianapolis to orlando on december twenty fifth", "summary": "atis_airfare"}
+{"text": "flight numbers on american airlines from phoenix to milwaukee", "summary": "atis_flight_no"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "what are the fares for all flights between washington and columbus", "summary": "atis_airfare"}
+{"text": "is there taxi service at the ontario airport", "summary": "atis_ground_service"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "how many passengers can fly on a 757", "summary": "atis_capacity"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "how much is a limousine service in toronto international", "summary": "atis_ground_fare"}
+{"text": "how far is new york's la guardia from downtown", "summary": "atis_distance"}
+{"text": "what ground transportation is available from dallas fort worth airport to downtown dallas", "summary": "atis_ground_service"}
+{"text": "what does fare code f mean", "summary": "atis_abbreviation"}
+{"text": "what are the fares for ground transportation in denver", "summary": "atis_ground_fare"}
+{"text": "what ground transportation is available between dca and downtown washington", "summary": "atis_ground_service"}
+{"text": "list airports", "summary": "atis_airport"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "what does q mean", "summary": "atis_abbreviation"}
+{"text": "what airline is as", "summary": "atis_airline"}
+{"text": "how many flights does alaska airlines have to burbank", "summary": "atis_flight"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "which airline is us", "summary": "atis_airline"}
+{"text": "what is the seating capacity on the aircraft m80", "summary": "atis_capacity"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "i need to rent a car at tampa", "summary": "atis_ground_service"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "how far is san francisco international from downtown", "summary": "atis_distance"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what type of aircraft is used for the american flight leaving at 419 pm", "summary": "atis_aircraft"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what airline is hp", "summary": "atis_airline"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "list first class airfare round trip from indianapolis to memphis", "summary": "atis_airfare"}
+{"text": "i need a flight from toronto to st. louis", "summary": "atis_flight"}
+{"text": "what is the ground transportation between the charlotte airport charlotte airport and downtown charlotte", "summary": "atis_ground_service"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "what is the seating capacity of the 757", "summary": "atis_capacity"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "i need the flight numbers of flights leaving from cleveland and arriving at dallas", "summary": "atis_flight_no"}
+{"text": "i would like to have the airline that flies toronto detroit and st. louis", "summary": "atis_airline"}
+{"text": "is there ground transportation from lga into new york city", "summary": "atis_ground_service"}
+{"text": "tell me all the airports in the new york city area", "summary": "atis_airport"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what are the fares for flights between boston and washington dc", "summary": "atis_airfare"}
+{"text": "i need flight numbers for those flights departing on thursday before 8 am from oakland going to salt lake city", "summary": "atis_flight_no"}
+{"text": "ground transportation for las vegas", "summary": "atis_ground_service"}
+{"text": "flight numbers on american airlines from phoenix to milwaukee", "summary": "atis_flight_no"}
+{"text": "how much is a limousine service in la guardia", "summary": "atis_ground_fare"}
+{"text": "which airlines fly between toronto and san diego", "summary": "atis_airline"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "show me airlines that have flights between toronto and detroit between detroit and st. louis and between st. louis and toronto", "summary": "atis_airline"}
+{"text": "get first flight from oakland to salt lake city on thursday", "summary": "atis_flight"}
+{"text": "what is the seating capacity for delta be1", "summary": "atis_capacity"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "are snacks served on tower air", "summary": "atis_meal"}
+{"text": "which airlines fly from baltimore to san francisco", "summary": "atis_airline"}
+{"text": "what does not sa mean", "summary": "atis_abbreviation"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "list american airlines flights from houston to milwaukee departing friday pm", "summary": "atis_flight"}
+{"text": "tell me all the airports near westchester county", "summary": "atis_airport"}
+{"text": "list the distance in miles from san francisco international airport to san francisco downtown", "summary": "atis_distance"}
+{"text": "determine the type of aircraft used on a flight from cleveland to dallas that leaves before noon", "summary": "atis_aircraft"}
+{"text": "what airline is as as in sam", "summary": "atis_airline"}
+{"text": "what type of aircraft is used for the american flight leaving at 419 pm", "summary": "atis_aircraft"}
+{"text": "what airlines fly between detroit and westchester county", "summary": "atis_airline"}
+{"text": "how much is limousine service in los angeles", "summary": "atis_ground_fare"}
+{"text": "how long does a flight from baltimore to san francisco take", "summary": "atis_distance"}
+{"text": "list limousine rates for the city of boston", "summary": "atis_ground_fare"}
+{"text": "what airline is hp", "summary": "atis_airline"}
+{"text": "what is the seating capacity of the 733", "summary": "atis_capacity"}
+{"text": "what types of ground transportation are available in denver", "summary": "atis_ground_service"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "how many passengers can fly on a 757", "summary": "atis_capacity"}
+{"text": "what is the seating capacity of a 757", "summary": "atis_capacity"}
+{"text": "flight number from dallas to houston", "summary": "atis_flight_no"}
+{"text": "list california airports", "summary": "atis_airport"}
+{"text": "list the flights from memphis to cleveland", "summary": "atis_flight"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "list the flights from westchester county to denver on june seventh", "summary": "atis_flight"}
+{"text": "show me all flights from orlando to montreal please", "summary": "atis_flight"}
+{"text": "list limousine rates for the city of boston", "summary": "atis_ground_fare"}
+{"text": "list the arizona airport", "summary": "atis_airport"}
+{"text": "which flights arrive in burbank from las vegas on saturday april twenty third in the afternoon", "summary": "atis_flight"}
+{"text": "what is the ground transportation between the charlotte airport charlotte airport and downtown charlotte", "summary": "atis_ground_service"}
+{"text": "i need flight numbers for those flights departing on thursday before 8 am from oakland going to salt lake city", "summary": "atis_flight_no"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "what does fare code qo mean", "summary": "atis_abbreviation"}
+{"text": "list airlines that fly from seattle to salt lake city", "summary": "atis_airline"}
+{"text": "flight numbers from chicago to seattle", "summary": "atis_flight_no"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "flight numbers on american airlines from phoenix to milwaukee", "summary": "atis_flight_no"}
+{"text": "which flights go from new york to miami and back", "summary": "atis_flight"}
+{"text": "what airlines fly between detroit and westchester county", "summary": "atis_airline"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "what is fare code m", "summary": "atis_abbreviation"}
+{"text": "what cities does northwest fly out of", "summary": "atis_city"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "get saturday fares from washington to montreal", "summary": "atis_airfare"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "flight numbers from chicago to seattle", "summary": "atis_flight_no"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "how many passengers can fly on a 757", "summary": "atis_capacity"}
+{"text": "is ground transportation available in st. louis", "summary": "atis_ground_service"}
+{"text": "what does fare code qo mean", "summary": "atis_abbreviation"}
+{"text": "tell me about the type of aircraft called an m80", "summary": "atis_aircraft"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "what is a d9s", "summary": "atis_abbreviation"}
+{"text": "what is seating capacity on the aircraft 73s", "summary": "atis_capacity"}
+{"text": "show me flights from montreal to orlando and long beach", "summary": "atis_flight"}
+{"text": "list airports in la", "summary": "atis_airport"}
+{"text": "what is the seating capacity on the aircraft 733", "summary": "atis_capacity"}
+{"text": "list airports in la", "summary": "atis_airport"}
+{"text": "what does fare code f mean", "summary": "atis_abbreviation"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "list limousine rates for the city of boston", "summary": "atis_ground_fare"}
+{"text": "what is the seating capacity of an m80", "summary": "atis_capacity"}
+{"text": "what meals are there on flight 382 from milwaukee to washington dc on tuesday morning", "summary": "atis_meal"}
+{"text": "i need a ticket from nashville tennessee to seattle", "summary": "atis_airfare"}
+{"text": "i need to rent a car at tampa", "summary": "atis_ground_service"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "is there ground transportation available at the phoenix airport", "summary": "atis_ground_service"}
+{"text": "what are restrictions ap 57", "summary": "atis_abbreviation"}
+{"text": "give me a combination of continental flights from chicago to seattle that have meals early saturday morning", "summary": "atis_flight"}
+{"text": "which airline is as", "summary": "atis_airline"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "list flights from baltimore to san francisco on friday", "summary": "atis_flight"}
+{"text": "what does fare code bh mean", "summary": "atis_abbreviation"}
+{"text": "tell me about the type of aircraft called an m80", "summary": "atis_aircraft"}
+{"text": "show me the cheapest round trip fares from houston to boston", "summary": "atis_airfare"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "cheapest fare round trip from indianapolis to orlando on december twenty seventh", "summary": "atis_airfare"}
+{"text": "i would like to have the airline that flies toronto detroit and st. louis", "summary": "atis_airline"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "determine the type of aircraft used on a flight from cleveland to dallas that leaves before noon", "summary": "atis_aircraft"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "what is meal code sb", "summary": "atis_abbreviation"}
+{"text": "what is the fare for a first class round trip ticket from detroit to st. petersburg", "summary": "atis_airfare"}
+{"text": "show me the cheapest round trip fares from san francisco to houston", "summary": "atis_airfare"}
+{"text": "what is the seating capacity of the aircraft 72s", "summary": "atis_capacity"}
+{"text": "list limousine rates for the city of boston", "summary": "atis_ground_fare"}
+{"text": "what is the capacity of the 73s", "summary": "atis_capacity"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "what class is fare code q", "summary": "atis_abbreviation"}
+{"text": "list seating capacities of delta flights from seattle to salt lake city", "summary": "atis_capacity"}
+{"text": "determine the type of aircraft used on a flight from cleveland to dallas that leaves before noon", "summary": "atis_aircraft"}
+{"text": "what ground transportation is there in baltimore", "summary": "atis_ground_service"}
+{"text": "what is a d9s", "summary": "atis_abbreviation"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "list type of aircraft for all flights from charlotte", "summary": "atis_aircraft"}
+{"text": "is there ground transportation available at the denver airport", "summary": "atis_ground_service"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "list distance from airports to downtown in new york", "summary": "atis_distance"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "what airlines fly between washington dc and columbus ohio", "summary": "atis_airline"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what type of plane is a d9s", "summary": "atis_aircraft"}
+{"text": "show me flights from fort worth to san jose", "summary": "atis_flight"}
+{"text": "flight numbers on american airlines from phoenix to milwaukee", "summary": "atis_flight_no"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "list airports in arizona nevada and california please", "summary": "atis_airport"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "list type of aircraft for all flights from charlotte", "summary": "atis_aircraft"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "what ground transportation is available between phoenix airport and downtown phoenix", "summary": "atis_ground_service"}
+{"text": "are meals ever served on tower air", "summary": "atis_meal"}
+{"text": "what types of ground transportation are available in denver", "summary": "atis_ground_service"}
+{"text": "what does fare code bh mean", "summary": "atis_abbreviation"}
+{"text": "what are the fares for ground transportation in denver", "summary": "atis_ground_fare"}
+{"text": "flight numbers from chicago to seattle on continental", "summary": "atis_flight_no"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "get fares from washington to montreal", "summary": "atis_airfare"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "which airline is us", "summary": "atis_airline"}
+{"text": "i need information on flights from toronto to san diego", "summary": "atis_flight"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "list airports in arizona nevada and california please", "summary": "atis_airport"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "what does ua mean", "summary": "atis_abbreviation"}
+{"text": "tell me about the ground transportation from nashville airport", "summary": "atis_ground_service"}
+{"text": "what is fare code f", "summary": "atis_abbreviation"}
+{"text": "please show ground transportation to milwaukee", "summary": "atis_ground_service"}
+{"text": "give me the fares for round trip flights from cleveland to miami next wednesday", "summary": "atis_airfare"}
+{"text": "list airports", "summary": "atis_airport"}
+{"text": "at the charlotte airport how many different types of aircraft are there for us air", "summary": "atis_aircraft"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "show me the cheapest round trip coach fare on twa from las vegas to detroit", "summary": "atis_airfare"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "cheapest fare from indianapolis to orlando on the twenty seventh of december", "summary": "atis_airfare"}
+{"text": "what is cvg", "summary": "atis_abbreviation"}
+{"text": "is there one airline that flies from burbank to milwaukee milwaukee to st. louis and from st. louis to burbank", "summary": "atis_airline"}
+{"text": "show me the airports serviced by tower air", "summary": "atis_airport"}
+{"text": "how many passengers can an l1011 aircraft hold", "summary": "atis_capacity"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "list the distance in miles from boston airport to downtown boston", "summary": "atis_distance"}
+{"text": "what is fare code m", "summary": "atis_abbreviation"}
+{"text": "what is the seating capacity for delta be1", "summary": "atis_capacity"}
+{"text": "what is the seating capacity of the type of aircraft m80", "summary": "atis_capacity"}
+{"text": "flight number from houston to dallas", "summary": "atis_flight_no"}
+{"text": "how far is san francisco international from downtown", "summary": "atis_distance"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "flight numbers from seattle to chicago on continental", "summary": "atis_flight_no"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what is the lowest fare from washington dc to montreal", "summary": "atis_airfare"}
+{"text": "list distance from airports to downtown in new york", "summary": "atis_distance"}
+{"text": "how much does it cost to fly on twa from columbus to milwaukee", "summary": "atis_airfare"}
+{"text": "what is the seating capacity of the aircraft 72s", "summary": "atis_capacity"}
+{"text": "how far is los angeles international from downtown", "summary": "atis_distance"}
+{"text": "list flights from milwaukee to detroit", "summary": "atis_flight"}
+{"text": "list airports", "summary": "atis_airport"}
+{"text": "what ground transportation is available from dallas fort worth airport to downtown dallas", "summary": "atis_ground_service"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "flight numbers from seattle to chicago on continental", "summary": "atis_flight_no"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "what does hp stand for", "summary": "atis_abbreviation"}
+{"text": "what meals are there on flight 382 from milwaukee to washington dc on tuesday morning", "summary": "atis_meal"}
+{"text": "i need a ticket from nashville tennessee to seattle", "summary": "atis_airfare"}
+{"text": "what airline is aa", "summary": "atis_airline"}
+{"text": "what is cvg", "summary": "atis_abbreviation"}
+{"text": "list the arizona airport", "summary": "atis_airport"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "are snacks served on tower air", "summary": "atis_meal"}
+{"text": "get fares from washington to montreal", "summary": "atis_airfare"}
+{"text": "list the arizona airport", "summary": "atis_airport"}
+{"text": "list flights from washington dc to montreal", "summary": "atis_flight"}
+{"text": "list airports", "summary": "atis_airport"}
+{"text": "flight number from houston to dallas", "summary": "atis_flight_no"}
+{"text": "show me the cost of a first class ticket from detroit to las vegas and back", "summary": "atis_airfare"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "tell me all the airports in the new york city area", "summary": "atis_airport"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "what are the fares for ground transportation in denver", "summary": "atis_ground_fare"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "what's the ground transportation in denver", "summary": "atis_ground_service"}
+{"text": "what meals are there on flight 382 from milwaukee to washington dc on tuesday morning", "summary": "atis_meal"}
+{"text": "what airline flies from boston to san diego", "summary": "atis_airline"}
+{"text": "list flights from dallas to houston", "summary": "atis_flight"}
+{"text": "flight number from houston to dallas", "summary": "atis_flight_no"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "list the distance in miles from toronto international airport to downtown toronto", "summary": "atis_distance"}
+{"text": "tell me about the type of aircraft called an m80", "summary": "atis_aircraft"}
+{"text": "what's the ground transportation in denver", "summary": "atis_ground_service"}
+{"text": "how much is a limousine service in la guardia", "summary": "atis_ground_fare"}
+{"text": "what does ap 57 mean", "summary": "atis_abbreviation"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "flight numbers from seattle to chicago on continental", "summary": "atis_flight_no"}
+{"text": "list airports", "summary": "atis_airport"}
+{"text": "what does fare code bh mean", "summary": "atis_abbreviation"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "what is a d9s", "summary": "atis_abbreviation"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "what type of plane is a d9s", "summary": "atis_aircraft"}
+{"text": "list airports", "summary": "atis_airport"}
+{"text": "what is phl", "summary": "atis_abbreviation"}
+{"text": "list the distance in miles from boston airport to downtown boston", "summary": "atis_distance"}
+{"text": "tell me all the airports near westchester county", "summary": "atis_airport"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what is the seating capacity of an m80", "summary": "atis_capacity"}
+{"text": "what ground transportation is available between pittsburgh airport and downtown pittsburgh", "summary": "atis_ground_service"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "to what cities from boston does america west fly first class", "summary": "atis_city"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "how far is los angeles international from downtown", "summary": "atis_distance"}
+{"text": "what is the seating capacity of the aircraft 72s", "summary": "atis_capacity"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "i need flight numbers for those flights departing on thursday before 8 am from oakland going to salt lake city", "summary": "atis_flight_no"}
+{"text": "and now show me ground transportation that i could get in boston late night", "summary": "atis_ground_service"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "are snacks served on tower air", "summary": "atis_meal"}
+{"text": "determine the type of aircraft used on a flight from cleveland to dallas that leaves before noon", "summary": "atis_aircraft"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "flight number from houston to dallas", "summary": "atis_flight_no"}
+{"text": "what airlines fly from baltimore to san francisco", "summary": "atis_airline"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what are the fares for ground transportation in denver", "summary": "atis_ground_fare"}
+{"text": "list distance from airports to downtown in new york", "summary": "atis_distance"}
+{"text": "i need the flight numbers of flights leaving from cleveland and arriving at dallas", "summary": "atis_flight_no"}
+{"text": "what does hp stand for", "summary": "atis_abbreviation"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "list airfares for first class round trip from detroit to st. petersburg", "summary": "atis_airfare"}
+{"text": "what is the seating capacity for delta be1", "summary": "atis_capacity"}
+{"text": "what's the fare for a taxi to denver", "summary": "atis_ground_fare"}
+{"text": "what is a d9s", "summary": "atis_abbreviation"}
+{"text": "show me the cheapest round trip fares from houston to boston", "summary": "atis_airfare"}
+{"text": "what is the seating capacity for delta be1", "summary": "atis_capacity"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "list fares from washington dc to montreal", "summary": "atis_airfare"}
+{"text": "list airports in new york", "summary": "atis_airport"}
+{"text": "how far is los angeles international from downtown", "summary": "atis_distance"}
+{"text": "list type of aircraft for all flights from charlotte", "summary": "atis_aircraft"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "is there ground transportation from the memphis airport into town when if i arrive at 842 in the morning", "summary": "atis_ground_service"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "miami to cleveland sunday afternoon", "summary": "atis_flight"}
+{"text": "flight number from houston to dallas", "summary": "atis_flight_no"}
+{"text": "what type of plane is a d9s", "summary": "atis_aircraft"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "how much is coach flight from pittsburgh to atlanta", "summary": "atis_airfare"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "what is the seating capacity on the aircraft 733", "summary": "atis_capacity"}
+{"text": "are meals ever served on tower air", "summary": "atis_meal"}
+{"text": "what is the seating capacity of a 72s", "summary": "atis_capacity"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "determine the type of aircraft used on a flight from cleveland to dallas that leaves before noon", "summary": "atis_aircraft"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "what type of aircraft is used for the american flight leaving at 419 pm", "summary": "atis_aircraft"}
+{"text": "list airports in new york", "summary": "atis_airport"}
+{"text": "how much is limousine service in los angeles", "summary": "atis_ground_fare"}
+{"text": "what is the lowest fare from toronto to washington dc", "summary": "atis_airfare"}
+{"text": "list flights from milwaukee to washington dc before 1200", "summary": "atis_flight"}
+{"text": "flight numbers from chicago to seattle on continental", "summary": "atis_flight_no"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what does fare code f mean", "summary": "atis_abbreviation"}
+{"text": "what is the seating capacity of a 757", "summary": "atis_capacity"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "is there ground transportation available at the phoenix airport", "summary": "atis_ground_service"}
+{"text": "how long does a flight from baltimore to san francisco take", "summary": "atis_distance"}
+{"text": "new york city to las vegas and memphis to las vegas on sunday", "summary": "atis_flight"}
+{"text": "what is cvg", "summary": "atis_abbreviation"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "flight number from dallas to houston", "summary": "atis_flight_no"}
+{"text": "what airline is hp", "summary": "atis_airline"}
+{"text": "list airports in la", "summary": "atis_airport"}
+{"text": "how far is san francisco international from downtown", "summary": "atis_distance"}
+{"text": "i need the flight numbers of flights leaving from cleveland and arriving at dallas", "summary": "atis_flight_no"}
+{"text": "what's the fare for a taxi to denver", "summary": "atis_ground_fare"}
+{"text": "list the distance in miles from boston airport to downtown boston", "summary": "atis_distance"}
+{"text": "what are the fares for ground transportation in denver", "summary": "atis_ground_fare"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "is there ground transportation available at the phoenix airport", "summary": "atis_ground_service"}
+{"text": "tell me about the type of aircraft called an m80", "summary": "atis_aircraft"}
+{"text": "how many passengers can fly on a 757", "summary": "atis_capacity"}
+{"text": "i would like a flight leaving san francisco for san diego", "summary": "atis_flight"}
+{"text": "what airlines are departing from baltimore", "summary": "atis_airline"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "flight number from dallas to houston", "summary": "atis_flight_no"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "i would like to leave thursday morning from indianapolis to toronto", "summary": "atis_flight"}
+{"text": "get saturday fares from washington to montreal", "summary": "atis_airfare"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "list airports in la", "summary": "atis_airport"}
+{"text": "does tacoma airport offer transportation from the airport to the downtown area", "summary": "atis_ground_service"}
+{"text": "flight number from dallas to houston", "summary": "atis_flight_no"}
+{"text": "at the charlotte airport how many different types of aircraft are there for us air", "summary": "atis_aircraft"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "what does fare code h mean", "summary": "atis_abbreviation"}
+{"text": "what is the seating capacity of the aircraft m80", "summary": "atis_capacity"}
+{"text": "what is the seating capacity of the 757", "summary": "atis_capacity"}
+{"text": "list the distance in miles from boston airport to downtown boston", "summary": "atis_distance"}
+{"text": "what is the airfare for a round trip first class ticket from detroit to st. petersburg", "summary": "atis_airfare"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "please list ground transportation from ewr into new york city", "summary": "atis_ground_service"}
+{"text": "list flights from houston to denver", "summary": "atis_flight"}
+{"text": "what are the fares for ground transportation in denver", "summary": "atis_ground_fare"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "what are the fares for ground transportation in denver", "summary": "atis_ground_fare"}
+{"text": "ground transportation in las vegas", "summary": "atis_ground_service"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "what does the restriction ap58 mean", "summary": "atis_abbreviation"}
+{"text": "how much is coach flight from pittsburgh to atlanta", "summary": "atis_airfare"}
+{"text": "what is the seating capacity for aircraft l10", "summary": "atis_capacity"}
+{"text": "what airlines fly between washington dc and columbus ohio", "summary": "atis_airline"}
+{"text": "is there ground transportation from the memphis airport into town when if i arrive at 842 in the morning", "summary": "atis_ground_service"}
+{"text": "what is mci", "summary": "atis_abbreviation"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "show me airlines that have flights between toronto and detroit between detroit and st. louis and between st. louis and toronto", "summary": "atis_airline"}
+{"text": "now show me ground transportation in houston on monday afternoon", "summary": "atis_ground_service"}
+{"text": "list the distance in miles from san francisco international airport to san francisco downtown", "summary": "atis_distance"}
+{"text": "flight number from houston to dallas", "summary": "atis_flight_no"}
+{"text": "how much is a limousine service in la guardia", "summary": "atis_ground_fare"}
+{"text": "i would like to know what airports are in los angeles", "summary": "atis_airport"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "how many passengers can fly on a 757", "summary": "atis_capacity"}
+{"text": "how much is a limousine service in toronto international", "summary": "atis_ground_fare"}
+{"text": "show me the cheapest one way fare from san francisco to houston on february twenty eighth 1994", "summary": "atis_airfare"}
+{"text": "which airport is closest to ontario california", "summary": "atis_airport"}
+{"text": "what airline is dl", "summary": "atis_airline"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "what is the seating capacity of an m80", "summary": "atis_capacity"}
+{"text": "list distance from airports to downtown in new york", "summary": "atis_distance"}
+{"text": "list california nevada arizona airports", "summary": "atis_airport"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "does the airport at burbank have a flight that comes in from kansas city", "summary": "atis_flight"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "flight numbers on american airlines from phoenix to milwaukee", "summary": "atis_flight_no"}
+{"text": "what is a d9s", "summary": "atis_abbreviation"}
+{"text": "what cities does northwest fly out of", "summary": "atis_city"}
+{"text": "what airlines fly into denver", "summary": "atis_airline"}
+{"text": "list the distance in miles from toronto international airport to downtown toronto", "summary": "atis_distance"}
+{"text": "flight numbers from seattle to chicago on continental", "summary": "atis_flight_no"}
+{"text": "get the saturday fare from washington to toronto", "summary": "atis_airfare"}
+{"text": "how much is a limousine service in toronto international", "summary": "atis_ground_fare"}
+{"text": "what are restrictions ap 57", "summary": "atis_abbreviation"}
+{"text": "list type of aircraft for all flights from charlotte", "summary": "atis_aircraft"}
+{"text": "flight number from houston to dallas", "summary": "atis_flight_no"}
+{"text": "are snacks served on tower air", "summary": "atis_meal"}
+{"text": "what is the seating capacity for delta be1", "summary": "atis_capacity"}
+{"text": "what airlines fly between washington dc and columbus ohio", "summary": "atis_airline"}
+{"text": "list california nevada arizona airports", "summary": "atis_airport"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "show me the cheapest round trip fares from houston to boston", "summary": "atis_airfare"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "how much is coach flight from pittsburgh to atlanta", "summary": "atis_airfare"}
+{"text": "how long does a flight from baltimore to san francisco take", "summary": "atis_distance"}
+{"text": "what is the capacity of the 73s", "summary": "atis_capacity"}
+{"text": "tell me about the type of aircraft called an m80", "summary": "atis_aircraft"}
+{"text": "show me the cheapest round trip fare from san francisco to houston on february twenty eighth 1994", "summary": "atis_airfare"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "show flights from kansas city to minneapolis", "summary": "atis_flight"}
+{"text": "what are the fares for ground transportation in denver", "summary": "atis_ground_fare"}
+{"text": "list type of aircraft for all flights from charlotte", "summary": "atis_aircraft"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "is there a fare from pittsburgh to cleveland under 200 dollars", "summary": "atis_airfare"}
+{"text": "what is the seating capacity of a dc9", "summary": "atis_capacity"}
+{"text": "what is the seating capacity of the m80", "summary": "atis_capacity"}
+{"text": "get flights between st. petersburg and charlotte", "summary": "atis_flight"}
+{"text": "what cities does northwest fly out of", "summary": "atis_city"}
+{"text": "how far is toronto international from downtown", "summary": "atis_distance"}
+{"text": "what are the fares for ground transportation in denver", "summary": "atis_ground_fare"}
+{"text": "list a flight on american airlines from toronto to san diego", "summary": "atis_flight"}
+{"text": "how far is los angeles international from downtown", "summary": "atis_distance"}
+{"text": "ground transportation for las vegas", "summary": "atis_ground_service"}
+{"text": "what does ua mean", "summary": "atis_abbreviation"}
+{"text": "list limousine rates for the city of boston", "summary": "atis_ground_fare"}
+{"text": "what does fare code bh mean", "summary": "atis_abbreviation"}
+{"text": "what type of aircraft is used for the american flight leaving at 419 pm", "summary": "atis_aircraft"}
+{"text": "st. paul to kansas city friday night", "summary": "atis_flight"}
+{"text": "what is the seating capacity of a 72s", "summary": "atis_capacity"}
+{"text": "flight numbers from seattle to chicago on continental", "summary": "atis_flight_no"}
+{"text": "what airlines are departing from baltimore", "summary": "atis_airline"}
+{"text": "what is the seating capacity of the type of aircraft m80", "summary": "atis_capacity"}
+{"text": "list airports in la", "summary": "atis_airport"}
+{"text": "are snacks served on tower air", "summary": "atis_meal"}
+{"text": "what does fare code bh mean", "summary": "atis_abbreviation"}
+{"text": "which airline is as", "summary": "atis_airline"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "flight number from houston to dallas", "summary": "atis_flight_no"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "flight numbers from chicago to seattle", "summary": "atis_flight_no"}
+{"text": "determine the type of aircraft used on a flight from cleveland to dallas that leaves before noon", "summary": "atis_aircraft"}
+{"text": "get saturday fares from washington to montreal", "summary": "atis_airfare"}
+{"text": "what meals are there on flight 382 from milwaukee to washington dc on tuesday morning", "summary": "atis_meal"}
+{"text": "i need a ticket from nashville tennessee to seattle", "summary": "atis_airfare"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "is there ground transportation from lga into new york city", "summary": "atis_ground_service"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "what does q mean", "summary": "atis_abbreviation"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "flights from atlanta to seattle", "summary": "atis_flight"}
+{"text": "please show ground transportation to milwaukee", "summary": "atis_ground_service"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "what does fare code f mean", "summary": "atis_abbreviation"}
+{"text": "is there one airline that flies from burbank to milwaukee milwaukee to st. louis and from st. louis to burbank", "summary": "atis_airline"}
+{"text": "list california airports", "summary": "atis_airport"}
+{"text": "find me a flight from cincinnati to any airport in the new york city area", "summary": "atis_flight"}
+{"text": "what ground transportation is available between pittsburgh airport and downtown pittsburgh", "summary": "atis_ground_service"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "show me the cheapest round trip fares from san francisco to houston", "summary": "atis_airfare"}
+{"text": "list airports in arizona nevada and california please", "summary": "atis_airport"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "determine the type of aircraft used on a flight from cleveland to dallas that leaves before noon", "summary": "atis_aircraft"}
+{"text": "what is a d9s", "summary": "atis_abbreviation"}
+{"text": "is there ground transportation from the memphis airport into town when if i arrive at 842 in the morning", "summary": "atis_ground_service"}
+{"text": "what type of aircraft is used for the american flight leaving at 419 pm", "summary": "atis_aircraft"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "list distance from airports to downtown in new york", "summary": "atis_distance"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "what type of plane is a d9s", "summary": "atis_aircraft"}
+{"text": "how much is the limousine service in boston", "summary": "atis_ground_fare"}
+{"text": "list the cheapest fare from charlotte to las vegas", "summary": "atis_airfare"}
+{"text": "list airports in new york", "summary": "atis_airport"}
+{"text": "how much is coach flight from pittsburgh to atlanta", "summary": "atis_airfare"}
+{"text": "now show me all the round trips from new york to miami", "summary": "atis_flight"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "list the cheapest fare from charlotte to las vegas", "summary": "atis_airfare"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "what does hp stand for", "summary": "atis_abbreviation"}
+{"text": "how many passengers can fly on a 757", "summary": "atis_capacity"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "show flights tuesday evening from milwaukee to st. louis", "summary": "atis_flight"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "show me round trip flights from burbank to seattle", "summary": "atis_flight"}
+{"text": "how far is san francisco international from downtown", "summary": "atis_distance"}
+{"text": "flight numbers from chicago to seattle", "summary": "atis_flight_no"}
+{"text": "list airports in arizona nevada and california please", "summary": "atis_airport"}
+{"text": "to what cities from boston does america west fly first class", "summary": "atis_city"}
+{"text": "what airlines off from love field between 6 and 10 am on june sixth", "summary": "atis_airline"}
+{"text": "are snacks served on tower air", "summary": "atis_meal"}
+{"text": "what is the seating capacity for aircraft l10", "summary": "atis_capacity"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "list ground transportation in baltimore", "summary": "atis_ground_service"}
+{"text": "are snacks served on tower air", "summary": "atis_meal"}
+{"text": "what is seating capacity on the aircraft 73s", "summary": "atis_capacity"}
+{"text": "what is the latest flight from baltimore to oakland that serves dinner", "summary": "atis_flight"}
+{"text": "what airline is as as in sam", "summary": "atis_airline"}
+{"text": "find a flight between st. petersburg and charlotte the flight should leave in the afternoon and arrive as soon after 5 pm as possible it should be a nonstop flight", "summary": "atis_flight"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "list airports in la", "summary": "atis_airport"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "show me all the flights from las vegas to new york city", "summary": "atis_flight"}
+{"text": "i need flight numbers for those flights departing on thursday before 8 am from oakland going to salt lake city", "summary": "atis_flight_no"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "list type of aircraft for all flights from charlotte", "summary": "atis_aircraft"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what is the seating capacity of the 757", "summary": "atis_capacity"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "what cities does northwest fly out of", "summary": "atis_city"}
+{"text": "houston to dallas before midnight", "summary": "atis_flight"}
+{"text": "what airlines fly between detroit and westchester county", "summary": "atis_airline"}
+{"text": "how long does a flight from baltimore to san francisco take", "summary": "atis_distance"}
+{"text": "list type of aircraft for all flights from charlotte", "summary": "atis_aircraft"}
+{"text": "list ground transportation in baltimore", "summary": "atis_ground_service"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "at the charlotte airport how many different types of aircraft are there for us air", "summary": "atis_aircraft"}
+{"text": "what's the fare for a taxi to denver", "summary": "atis_ground_fare"}
+{"text": "what airline flies from boston to san diego", "summary": "atis_airline"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "list the distance in miles from boston airport to downtown boston", "summary": "atis_distance"}
+{"text": "what cities does northwest fly out of", "summary": "atis_city"}
+{"text": "how far is toronto international from downtown", "summary": "atis_distance"}
+{"text": "what does q mean", "summary": "atis_abbreviation"}
+{"text": "get saturday fares from washington to montreal", "summary": "atis_airfare"}
+{"text": "give me the flights from chicago to seattle saturday morning that have meals", "summary": "atis_flight"}
+{"text": "how much is a limousine service in la guardia", "summary": "atis_ground_fare"}
+{"text": "how much is limousine service in los angeles", "summary": "atis_ground_fare"}
+{"text": "i need to rent a car at tampa", "summary": "atis_ground_service"}
+{"text": "what does q mean", "summary": "atis_abbreviation"}
+{"text": "list california airports", "summary": "atis_airport"}
+{"text": "flight numbers from seattle to chicago on continental", "summary": "atis_flight_no"}
+{"text": "determine the type of aircraft used on a flight from cleveland to dallas that leaves before noon", "summary": "atis_aircraft"}
+{"text": "what is seating capacity on the aircraft 73s", "summary": "atis_capacity"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what class is fare code q", "summary": "atis_abbreviation"}
+{"text": "cheapest fare round trip from indianapolis to orlando on december twenty seventh", "summary": "atis_airfare"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "cleveland to miami on wednesday arriving before 4 pm", "summary": "atis_flight"}
+{"text": "what is the capacity of the 73s", "summary": "atis_capacity"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "determine the type of aircraft used on a flight from cleveland to dallas that leaves before noon", "summary": "atis_aircraft"}
+{"text": "list the distance in miles from toronto international airport to downtown toronto", "summary": "atis_distance"}
+{"text": "at the charlotte airport how many different types of aircraft are there for us air", "summary": "atis_aircraft"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "tell me all the airports near westchester county", "summary": "atis_airport"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "show me the cheapest round trip fares from houston to boston", "summary": "atis_airfare"}
+{"text": "list airports in la", "summary": "atis_airport"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "flight numbers from chicago to seattle", "summary": "atis_flight_no"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what is the seating capacity on the aircraft 733", "summary": "atis_capacity"}
+{"text": "how far is new york's la guardia from downtown", "summary": "atis_distance"}
+{"text": "what's the ground transportation in denver", "summary": "atis_ground_service"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "what is the seating capacity of an m80", "summary": "atis_capacity"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "what are restrictions ap 57", "summary": "atis_abbreviation"}
+{"text": "ground transportation in las vegas", "summary": "atis_ground_service"}
+{"text": "list airports in la", "summary": "atis_airport"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "tell me about the type of aircraft called an m80", "summary": "atis_aircraft"}
+{"text": "how far is toronto international from downtown", "summary": "atis_distance"}
+{"text": "list california airports", "summary": "atis_airport"}
+{"text": "how many passengers can fly on a 757", "summary": "atis_capacity"}
+{"text": "list the cities from which northwest flies", "summary": "atis_city"}
+{"text": "i need the flight numbers of flights leaving from cleveland and arriving at dallas", "summary": "atis_flight_no"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "how much is a limousine service in la guardia", "summary": "atis_ground_fare"}
+{"text": "list coach round trip airfare from detroit to st. petersburg", "summary": "atis_airfare"}
+{"text": "how much is a limousine service in toronto international", "summary": "atis_ground_fare"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "how far is new york's la guardia from downtown", "summary": "atis_distance"}
+{"text": "what does ap 20 mean", "summary": "atis_abbreviation"}
+{"text": "list airports in la", "summary": "atis_airport"}
+{"text": "what airline is as", "summary": "atis_airline"}
+{"text": "how far is new york's la guardia from downtown", "summary": "atis_distance"}
+{"text": "list distance from airports to downtown in new york", "summary": "atis_distance"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "show me the cost of a first class ticket from detroit to las vegas and back", "summary": "atis_airfare"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what airline is as", "summary": "atis_airline"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "how much is a limousine service in la guardia", "summary": "atis_ground_fare"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "give me the fares from miami to cleveland next sunday", "summary": "atis_airfare"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "what is the most expensive one way fare between detroit and westchester county", "summary": "atis_airfare"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "what is the seating capacity of the 757", "summary": "atis_capacity"}
+{"text": "how far is los angeles international from downtown", "summary": "atis_distance"}
+{"text": "i'll need to rent a car in washington dc", "summary": "atis_ground_service"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "i need to rent a car at tampa", "summary": "atis_ground_service"}
+{"text": "which airport is closest to ontario california", "summary": "atis_airport"}
+{"text": "which flights arrive in burbank from kansas city on saturdays in the afternoon", "summary": "atis_flight"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "get saturday fares from washington to boston", "summary": "atis_airfare"}
+{"text": "list airports in new york", "summary": "atis_airport"}
+{"text": "what is the seating capacity of a 72s", "summary": "atis_capacity"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "what types of ground transportation are available in denver", "summary": "atis_ground_service"}
+{"text": "what the abbreviation us stand for", "summary": "atis_abbreviation"}
+{"text": "i'd like a one way ticket from milwaukee to orlando either wednesday evening or thursday morning", "summary": "atis_airfare"}
+{"text": "flight number from dallas to houston", "summary": "atis_flight_no"}
+{"text": "what the abbreviation us stand for", "summary": "atis_abbreviation"}
+{"text": "are meals ever served on tower air", "summary": "atis_meal"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "show me all flights from san jose to phoenix", "summary": "atis_flight"}
+{"text": "flight numbers on american airlines from phoenix to milwaukee", "summary": "atis_flight_no"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "what is the seating capacity of a dc9", "summary": "atis_capacity"}
+{"text": "show flights from kansas city to orlando", "summary": "atis_flight"}
+{"text": "what airlines fly from baltimore to san francisco", "summary": "atis_airline"}
+{"text": "list california airports", "summary": "atis_airport"}
+{"text": "list fares from washington dc to montreal", "summary": "atis_airfare"}
+{"text": "list distance from airports to downtown in new york", "summary": "atis_distance"}
+{"text": "how many canadian airlines flights use aircraft dh8", "summary": "atis_quantity"}
+{"text": "list the distance in miles from boston airport to downtown boston", "summary": "atis_distance"}
+{"text": "what ground transportation is available between pittsburgh airport and downtown pittsburgh", "summary": "atis_ground_service"}
+{"text": "what united airlines flights on june eighth go from westchester county to cincinnati", "summary": "atis_flight"}
+{"text": "what does fare code h mean", "summary": "atis_abbreviation"}
+{"text": "give me the saturday morning flights on continental that have meals from chicago to minneapolis", "summary": "atis_flight"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "how much is limousine service in los angeles", "summary": "atis_ground_fare"}
+{"text": "what meals are there on flight 382 from milwaukee to washington dc on tuesday morning", "summary": "atis_meal"}
+{"text": "list california airports", "summary": "atis_airport"}
+{"text": "is there taxi service at the ontario airport", "summary": "atis_ground_service"}
+{"text": "what is meal code sb", "summary": "atis_abbreviation"}
+{"text": "list airports in new york", "summary": "atis_airport"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what's the fare for a taxi to denver", "summary": "atis_ground_fare"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "what is a d9s", "summary": "atis_abbreviation"}
+{"text": "list the distance in miles from toronto international airport to downtown toronto", "summary": "atis_distance"}
+{"text": "ground transportation for las vegas", "summary": "atis_ground_service"}
+{"text": "what cities does northwest fly out of", "summary": "atis_city"}
+{"text": "what are the fares for ground transportation in denver", "summary": "atis_ground_fare"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "are snacks served on tower air", "summary": "atis_meal"}
+{"text": "how many northwest flights leave st. paul", "summary": "atis_flight"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what's the fare for a taxi to denver", "summary": "atis_ground_fare"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "how far is los angeles international from downtown", "summary": "atis_distance"}
+{"text": "what does ua mean", "summary": "atis_abbreviation"}
+{"text": "to what cities from boston does america west fly first class", "summary": "atis_city"}
+{"text": "list the distance in miles from new york's la guardia airport to downtown new york city", "summary": "atis_distance"}
+{"text": "what does not sa mean", "summary": "atis_abbreviation"}
+{"text": "flight numbers from seattle to chicago on continental", "summary": "atis_flight_no"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "what are the fares for flights between boston and washington dc", "summary": "atis_airfare"}
+{"text": "what is the seating capacity of the 757", "summary": "atis_capacity"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "what is phl", "summary": "atis_abbreviation"}
+{"text": "what type of aircraft is used for the american flight leaving at 419 pm", "summary": "atis_aircraft"}
+{"text": "determine the type of aircraft used on a flight from cleveland to dallas that leaves before noon", "summary": "atis_aircraft"}
+{"text": "list the airlines with flights to or from denver", "summary": "atis_airline"}
+{"text": "what ground transportation is available from dallas fort worth airport to downtown dallas", "summary": "atis_ground_service"}
+{"text": "flight number from dallas to houston", "summary": "atis_flight_no"}
+{"text": "how much is a limousine service in la guardia", "summary": "atis_ground_fare"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "i'd like a one way ticket from milwaukee to orlando either wednesday evening or thursday morning", "summary": "atis_airfare"}
+{"text": "what meals are there on flight 382 from milwaukee to washington dc on tuesday morning", "summary": "atis_meal"}
+{"text": "list california nevada arizona airports", "summary": "atis_airport"}
+{"text": "what meals are served on american flight 665 673 from milwaukee to seattle", "summary": "atis_meal"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "which flights travel from indianapolis to san diego on april fifth", "summary": "atis_flight"}
+{"text": "what type of aircraft are flying from cleveland to dallas before noon", "summary": "atis_aircraft"}
+{"text": "what airline is us", "summary": "atis_airline"}
+{"text": "list airports in la", "summary": "atis_airport"}
+{"text": "flight numbers from chicago to seattle on continental", "summary": "atis_flight_no"}
+{"text": "tell me all the airports in the new york city area", "summary": "atis_airport"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "list type of aircraft for all flights from charlotte", "summary": "atis_aircraft"}
+{"text": "how much is limousine service in los angeles", "summary": "atis_ground_fare"}
+{"text": "what days of the week do flights from san jose to nashville fly on", "summary": "atis_day_name"}
+{"text": "what meals are available on dl 468 which al arrives in san francisco at 950 am", "summary": "atis_meal"}
+{"text": "list all flights from cleveland to nashville", "summary": "atis_flight"}
+{"text": "how much is limousine service in los angeles", "summary": "atis_ground_fare"}
+{"text": "and now show me ground transportation that i could get in boston late night", "summary": "atis_ground_service"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "i would like an early morning flight today from los angeles to charlotte", "summary": "atis_flight"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "list the distance in miles from boston airport to downtown boston", "summary": "atis_distance"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "is there one airline that flies from burbank to milwaukee milwaukee to st. louis and from st. louis to burbank", "summary": "atis_airline"}
+{"text": "how far is new york's la guardia from downtown", "summary": "atis_distance"}
+{"text": "what is the seating capacity of a dc9", "summary": "atis_capacity"}
+{"text": "what ground transportation is available between milwaukee airport and downtown milwaukee", "summary": "atis_ground_service"}
+{"text": "how far is san francisco international from downtown", "summary": "atis_distance"}
+{"text": "how many canadian airlines international flights use j31", "summary": "atis_quantity"}
+{"text": "tell me about the type of aircraft called an m80", "summary": "atis_aircraft"}
+{"text": "are snacks served on tower air", "summary": "atis_meal"}
+{"text": "flight numbers on american airlines from phoenix to milwaukee", "summary": "atis_flight_no"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "at the charlotte airport how many different types of aircraft are there for us air", "summary": "atis_aircraft"}
+{"text": "what airline is us", "summary": "atis_airline"}
+{"text": "what cities does northwest fly to", "summary": "atis_city"}
+{"text": "what airlines fly into denver", "summary": "atis_airline"}
+{"text": "what cities does northwest fly out of", "summary": "atis_city"}
+{"text": "how far is new york's la guardia from downtown", "summary": "atis_distance"}
+{"text": "show me the cheapest round trip fare from san francisco to houston on february twenty eighth 1994", "summary": "atis_airfare"}
+{"text": "list airports", "summary": "atis_airport"}
+{"text": "what are the departure times from detroit to westchester county", "summary": "atis_flight_time"}
+{"text": "at the charlotte airport how many different types of aircraft are there for us air", "summary": "atis_aircraft"}
+{"text": "what meals are served on american flight 811 from tampa to milwaukee", "summary": "atis_meal"}
+{"text": "what is phl", "summary": "atis_abbreviation"}
+{"text": "list la", "summary": "atis_city"}
+{"text": "what does fare code bh mean", "summary": "atis_abbreviation"}
+{"text": "what day of the week do flights from nashville to tacoma fly on", "summary": "atis_day_name"}
+{"text": "show me the airports serviced by tower air", "summary": "atis_airport"}
+{"text": "list distance from airports to downtown in new york", "summary": "atis_distance"}
+{"text": "what is phl", "summary": "atis_abbreviation"}
+{"text": "next wednesday i would like to leave kansas city on a trip to chicago which arrives in chicago around 7 pm", "summary": "atis_flight"}
+{"text": "show me the cheapest round trip fare from san francisco to houston on february twenty eighth 1994", "summary": "atis_airfare"}
+{"text": "how far is san francisco international from downtown", "summary": "atis_distance"}
+{"text": "what airline is as", "summary": "atis_airline"}
+{"text": "how many canadian airlines international flights use aircraft 320", "summary": "atis_quantity"}
+{"text": "tell me about the m80 aircraft", "summary": "atis_aircraft"}
+{"text": "show me airlines that have flights between toronto and detroit between detroit and st. louis and between st. louis and toronto", "summary": "atis_airline"}
+{"text": "what meals are there on flight 382 from milwaukee to washington dc on tuesday morning", "summary": "atis_meal"}
+{"text": "what does ap 20 mean", "summary": "atis_abbreviation"}
+{"text": "flight numbers on american airlines from phoenix to milwaukee", "summary": "atis_flight_no"}
+{"text": "flight numbers from chicago to seattle", "summary": "atis_flight_no"}
+{"text": "are snacks served on tower air", "summary": "atis_meal"}
+{"text": "what is a d9s", "summary": "atis_abbreviation"}
+{"text": "how much is a limousine service in toronto international", "summary": "atis_ground_fare"}
+{"text": "show me the cost of a first class ticket from detroit to las vegas and back", "summary": "atis_airfare"}
+{"text": "what airline is aa", "summary": "atis_airline"}
+{"text": "list coach round trip airfare from detroit to st. petersburg", "summary": "atis_airfare"}
+{"text": "what is the seating capacity for delta be1", "summary": "atis_capacity"}
+{"text": "is there ground transportation from lga into new york city", "summary": "atis_ground_service"}
+{"text": "list type of aircraft for all flights from charlotte", "summary": "atis_aircraft"}
+{"text": "flight numbers from chicago to seattle on continental", "summary": "atis_flight_no"}
